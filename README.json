@@ -830,7 +830,7 @@
             "last_commit": "2026-03-31T19:44:02Z",
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1791
+            "stars": 1792
           }
         },
         {
@@ -886,7 +886,7 @@
             "last_commit": "2026-06-08T15:10:15Z",
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:45:02.077Z",
+    "last_updated": "2026-08-15T00:01:52.827Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
