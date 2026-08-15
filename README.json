@@ -830,7 +830,7 @@
             "last_commit": "2026-03-31T19:44:02Z",
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:01:52.827Z",
+    "last_updated": "2026-08-15T23:58:59.501Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
