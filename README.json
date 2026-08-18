@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T10:41:25Z",
+            "last_commit": "2026-08-17T22:41:11Z",
             "owner": "andreoliwa",
             "repo": "logseq-doctor",
             "stars": 107
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:58:29.083Z",
+    "last_updated": "2026-08-18T00:01:06.917Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
