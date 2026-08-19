@@ -14,7 +14,7 @@
             "last_commit": "2024-08-12T11:16:49Z",
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 404
+            "stars": 405
           }
         },
         {
@@ -886,7 +886,7 @@
             "last_commit": "2026-06-08T15:10:15Z",
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T22:41:11Z",
+            "last_commit": "2026-08-18T00:39:49Z",
             "owner": "andreoliwa",
             "repo": "logseq-doctor",
             "stars": 107
@@ -1244,7 +1244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T00:01:06.917Z",
+    "last_updated": "2026-08-19T00:00:59.909Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
