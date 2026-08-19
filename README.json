@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "See https://xyhp915.github.io/logseq-marketplace-table/ and filter to for a full list",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376921167,
             "language": "CSS",
             "last_commit": "2024-08-12T11:16:49Z",
             "owner": "pengx17",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369257534,
             "language": "SCSS",
             "last_commit": "2025-06-09T21:44:43Z",
             "owner": "Sansui233",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313454252,
             "language": "CSS",
             "last_commit": "2025-06-23T01:22:16Z",
             "owner": "dracula",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562506464,
             "language": "SCSS",
             "last_commit": "2026-08-12T01:07:07Z",
             "owner": "catppuccin",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430415897,
             "language": "CSS",
             "last_commit": "2022-05-03T15:29:46Z",
             "owner": "rcvd",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 286349601,
             "language": "CSS",
             "last_commit": "2022-05-06T18:04:01Z",
             "owner": "cannibalox",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 435241081,
             "language": "CSS",
             "last_commit": "2023-10-05T18:14:41Z",
             "owner": "ttytm",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 354093702,
             "language": "CSS",
             "last_commit": "2026-05-06T08:55:39Z",
             "owner": "dmytrodubinin",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553190054,
             "language": "CSS",
             "last_commit": "2025-12-27T00:04:29Z",
             "owner": "stdword",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615796214,
             "language": "CSS",
             "last_commit": "2024-03-26T18:45:44Z",
             "owner": "Bad3r",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361315439,
             "language": "CSS",
             "last_commit": "2021-12-11T13:19:04Z",
             "owner": "pengx17",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342644513,
             "language": "CSS",
             "last_commit": "2021-05-24T22:40:18Z",
             "owner": "PiotrSss",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338464976,
             "language": "CSS",
             "last_commit": "2022-06-02T19:13:37Z",
             "owner": "santiyounger",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569064048,
             "language": "SCSS",
             "last_commit": "2024-07-14T19:30:14Z",
             "owner": "UNICKCHENG",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496567421,
             "language": "CSS",
             "last_commit": "2023-09-21T01:25:16Z",
             "owner": "mendax1234",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372050079,
             "language": "CSS",
             "last_commit": "2022-10-06T09:38:08Z",
             "owner": "l3ony2k",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380817194,
             "language": "CSS",
             "last_commit": "2023-12-27T10:43:50Z",
             "owner": "mschmidtkorth",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388062314,
             "language": "Less",
             "last_commit": "2023-10-07T07:57:22Z",
             "owner": "haydenull",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451384283,
             "language": "CSS",
             "last_commit": "2025-03-25T22:52:57Z",
             "owner": "flowerornament",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336719894,
             "language": "CSS",
             "last_commit": "2021-02-12T11:04:01Z",
             "owner": "akhater",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441980384,
             "language": "CSS",
             "last_commit": "2022-01-02T14:35:49Z",
             "owner": "joeykhuang",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292395246,
             "language": "CSS",
             "last_commit": "2021-09-09T09:30:27Z",
             "owner": "cannibalox",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 302834791,
             "language": "CSS",
             "last_commit": "2020-10-23T20:53:51Z",
             "owner": "nikdoof",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291717431,
             "language": null,
             "last_commit": "2020-09-09T01:21:33Z",
             "owner": "yashagrawal15",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450685692,
             "language": "CSS",
             "last_commit": "2022-02-04T04:25:16Z",
             "owner": "flowerornament",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 356068405,
             "language": "CSS",
             "last_commit": "2021-06-04T17:36:35Z",
             "owner": "DenaroCF",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950858583,
             "language": "CSS",
             "last_commit": "2025-03-21T20:22:26Z",
             "owner": "wonyoung-jang",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272078670,
             "language": "CSS",
             "last_commit": "2026-08-04T21:14:29Z",
             "owner": "kevinlangleyjr",
@@ -399,7 +427,7 @@
       "title": "🎨 CSS Themes"
     },
     {
-      "description": "",
+      "description": "See https://xyhp915.github.io/logseq-marketplace-table/ and filter to for a full list",
       "items": [
         {
           "node_type": "item",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 400540729,
             "language": "TypeScript",
             "last_commit": "2024-03-11T03:15:57Z",
             "owner": "pengx17",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388801252,
             "language": "TypeScript",
             "last_commit": "2024-06-22T17:12:30Z",
             "owner": "vipzhicheng",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376945426,
             "language": "JavaScript",
             "last_commit": "2024-11-24T14:09:08Z",
             "owner": "cannibalox",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 609681795,
             "language": "TypeScript",
             "last_commit": "2025-02-19T11:18:18Z",
             "owner": "stdword",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394667767,
             "language": "TypeScript",
             "last_commit": "2023-05-27T08:18:21Z",
             "owner": "pengx17",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374132544,
             "language": "TypeScript",
             "last_commit": "2023-01-29T07:57:32Z",
             "owner": "pengx17",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 418902663,
             "language": "JavaScript",
             "last_commit": "2026-01-29T11:49:25Z",
             "owner": "haydenull",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 397549654,
             "language": "TypeScript",
             "last_commit": "2024-03-25T02:02:18Z",
             "owner": "pengx17",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 396461039,
             "language": "Vue",
             "last_commit": "2025-10-10T11:06:15Z",
             "owner": "c6p",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 572014644,
             "language": "TypeScript",
             "last_commit": "2026-02-11T16:31:14Z",
             "owner": "EINDEX",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398859836,
             "language": "Vue",
             "last_commit": "2025-02-10T11:37:58Z",
             "owner": "c6p",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 433711699,
             "language": "TypeScript",
             "last_commit": "2025-04-04T09:47:53Z",
             "owner": "vipzhicheng",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563216878,
             "language": "TypeScript",
             "last_commit": "2026-04-20T00:59:32Z",
             "owner": "adyscorpius",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423949952,
             "language": "CSS",
             "last_commit": "2025-05-04T08:51:57Z",
             "owner": "vipzhicheng",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 900427998,
             "language": "TypeScript",
             "last_commit": "2025-05-09T19:09:40Z",
             "owner": "chhabrakadabra",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380027341,
             "language": "JavaScript",
             "last_commit": "2021-11-16T18:14:57Z",
             "owner": "DenaroCF",
@@ -632,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582916075,
             "language": "JavaScript",
             "last_commit": "2023-12-26T09:48:17Z",
             "owner": "hankhank10",
@@ -646,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424930091,
             "language": "TypeScript",
             "last_commit": "2025-04-25T08:32:59Z",
             "owner": "vipzhicheng",
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752276288,
             "language": "TypeScript",
             "last_commit": "2024-08-18T11:49:12Z",
             "owner": "CorrectRoadH",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448518015,
             "language": "TypeScript",
             "last_commit": "2022-03-08T02:41:31Z",
             "owner": "haydenull",
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 389335100,
             "language": "Vue",
             "last_commit": "2021-07-28T20:47:17Z",
             "owner": "mschmidtkorth",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849815025,
             "language": "TypeScript",
             "last_commit": "2024-12-02T15:12:10Z",
             "owner": "dailydaniel",
@@ -716,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444596348,
             "language": "TypeScript",
             "last_commit": "2024-06-24T14:16:19Z",
             "owner": "haydenull",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666748128,
             "language": "TypeScript",
             "last_commit": "2026-08-13T11:14:00Z",
             "owner": "yutaodou",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 949610618,
             "language": "JavaScript",
             "last_commit": "2025-03-29T22:34:53Z",
             "owner": "wonyoung-jang",
@@ -764,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502787948,
             "language": "TypeScript",
             "last_commit": "2026-04-06T22:15:33Z",
             "owner": "omnivore-app",
@@ -778,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473563308,
             "language": "TypeScript",
             "last_commit": "2024-03-25T13:25:51Z",
             "owner": "readwiseio",
@@ -792,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 554906346,
             "language": "TypeScript",
             "last_commit": "2023-10-06T21:17:00Z",
             "owner": "getmatterapp",
@@ -806,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638136938,
             "language": "TypeScript",
             "last_commit": "2026-06-12T07:01:31Z",
             "owner": "makediff",
@@ -817,7 +874,7 @@
       "title": "🤝 Third Party Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -826,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151837779,
             "language": "TypeScript",
             "last_commit": "2026-03-31T19:44:02Z",
             "owner": "akosbalasko",
@@ -840,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600764100,
             "language": "TypeScript",
             "last_commit": "2026-08-11T10:28:37Z",
             "owner": "EINDEX",
@@ -854,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336625445,
             "language": "Python",
             "last_commit": "2021-04-13T14:42:34Z",
             "owner": "akhater",
@@ -868,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331541559,
             "language": null,
             "last_commit": "2021-05-20T05:58:33Z",
             "owner": "dustinlacewell",
@@ -882,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204634199,
             "language": "Shell",
             "last_commit": "2026-06-08T15:10:15Z",
             "owner": "MehmetGoekce",
@@ -896,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436896166,
             "language": "Rust",
             "last_commit": "2026-07-26T02:46:04Z",
             "owner": "Endle",
@@ -910,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 352059183,
             "language": "Emacs Lisp",
             "last_commit": "2023-09-20T02:49:59Z",
             "owner": "llcc",
@@ -924,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347390687,
             "language": "Rust",
             "last_commit": "2021-09-25T06:46:39Z",
             "owner": "kanru",
@@ -938,6 +1003,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314390027,
             "language": "JavaScript",
             "last_commit": "2021-06-23T19:32:01Z",
             "owner": "71",
@@ -952,6 +1018,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 339061334,
             "language": "CSS",
             "last_commit": "2021-04-19T14:54:05Z",
             "owner": "PiotrSss",
@@ -966,286 +1033,304 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 871793631,
             "language": "Jupyter Notebook",
             "last_commit": "2024-10-13T00:30:39Z",
             "owner": "jmbenedetto",
             "repo": "logseq_mass_pages_recovery",
             "stars": 1
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "logseq-pdf-export",
+              "description": "by sawhney17 - customizable PDF export",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461228867,
+                "language": "TypeScript",
+                "last_commit": "2025-05-30T11:58:04Z",
+                "owner": "sawhney17",
+                "repo": "logseq-pdf-export",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logseq-citation-manager",
+              "description": "by sawhney17 - Works on .bib files, so it supports Zotero, Paperpile and any other bib manager that supports this standard format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479772905,
+                "language": "TypeScript",
+                "last_commit": "2025-05-30T12:01:21Z",
+                "owner": "sawhney17",
+                "repo": "logseq-citation-manager",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logseq-pdf-extract",
+              "description": "by e-zz - Works with local zotero (no internet needed, thus faster), OCRs and extracts math formulas (see comparison)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 720918461,
+                "language": "TypeScript",
+                "last_commit": "2026-05-08T18:20:22Z",
+                "owner": "e-zz",
+                "repo": "logseq-pdf-extract",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logseq-pdf-nav",
+              "description": "by OverflowCat - better navigation between internal PDF locations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590184903,
+                "language": "JavaScript",
+                "last_commit": "2023-10-13T05:38:28Z",
+                "owner": "OverflowCat",
+                "repo": "logseq-pdf-nav",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logseq-zotero",
+              "description": "By Aljedaxi - rudimentary means of exporting a zotero library to logseq",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 330245197,
+                "language": "JavaScript",
+                "last_commit": "2021-02-20T22:00:53Z",
+                "owner": "aljedaxi",
+                "repo": "logseq-zotero",
+                "stars": 20
+              }
+            }
+          ],
+          "description": "Bibliography managers (eg Zotero) are widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.",
+          "node_type": "group",
+          "title": "Bibliography and PDF Integrations"
         }
       ],
       "title": "💡 Workflows and Innovations"
     },
     {
-      "description": "Bibliography managers (eg Zotero) are widely used in scientific research, and scientist often need to read PDFs and take in-depth notes.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "logseq-pdf-export",
-          "description": "by sawhney17 - customizable PDF export",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-30T11:58:04Z",
-            "owner": "sawhney17",
-            "repo": "logseq-pdf-export",
-            "stars": 128
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "logseq-doctor",
+              "description": "By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471953445,
+                "language": "Go",
+                "last_commit": "2026-08-18T00:39:49Z",
+                "owner": "andreoliwa",
+                "repo": "logseq-doctor",
+                "stars": 107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "longdown",
+              "description": "CLI tool for converting longform markdown to logseq markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629532324,
+                "language": "Clojure",
+                "last_commit": "2026-04-06T15:43:46Z",
+                "owner": "dundalek",
+                "repo": "longdown",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "keep2log",
+              "description": "By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 634136086,
+                "language": "JavaScript",
+                "last_commit": "2023-09-10T18:04:46Z",
+                "owner": "lugenx",
+                "repo": "keep2log",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dayone2logseq-md",
+              "description": "By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393661384,
+                "language": "Python",
+                "last_commit": "2022-07-24T22:15:11Z",
+                "owner": "mhejda",
+                "repo": "dayone2logseq-md",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "todoist2logseq",
+              "description": "By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288592286,
+                "language": "Shell",
+                "last_commit": "2021-02-11T15:17:13Z",
+                "owner": "WillPlatnick",
+                "repo": "todoist2logseq",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "joplin-to-logseq-importer",
+              "description": "CLI tool for converting Joplin notes to Logseq markdown.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933411951,
+                "language": "Go",
+                "last_commit": "2025-02-15T23:01:37Z",
+                "owner": "dasrecht",
+                "repo": "joplin-to-logseq-importer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "craft-to-logseq",
+              "description": "By omair-inam - A shell script that converts Craft markdown documents and journals into Logseq-friendly markdown files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 933321944,
+                "language": "Shell",
+                "last_commit": "2025-02-16T14:57:13Z",
+                "owner": "omair-inam",
+                "repo": "craft-to-logseq",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Conversion CLI"
         },
         {
-          "node_type": "item",
-          "title": "logseq-citation-manager",
-          "description": "by sawhney17 - Works on .bib files, so it supports Zotero, Paperpile and any other bib manager that supports this standard format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-30T12:01:21Z",
-            "owner": "sawhney17",
-            "repo": "logseq-citation-manager",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logseq-pdf-extract",
-          "description": "by e-zz - Works with local zotero (no internet needed, thus faster), OCRs and extracts math formulas (see comparison)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-08T18:20:22Z",
-            "owner": "e-zz",
-            "repo": "logseq-pdf-extract",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logseq-pdf-nav",
-          "description": "by OverflowCat - better navigation between internal PDF locations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-10-13T05:38:28Z",
-            "owner": "OverflowCat",
-            "repo": "logseq-pdf-nav",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logseq-zotero",
-          "description": "By Aljedaxi - rudimentary means of exporting a zotero library to logseq",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-02-20T22:00:53Z",
-            "owner": "aljedaxi",
-            "repo": "logseq-zotero",
-            "stars": 20
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lsq",
+              "description": "CLI tool to quickly create and edit journals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894702569,
+                "language": "Go",
+                "last_commit": "2026-04-02T18:15:47Z",
+                "owner": "jrswab",
+                "repo": "lsq",
+                "stars": 205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "org-logseq",
+              "description": "By ansmirnov - A script for navigating and editing logseq files using emacs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346435613,
+                "language": "Shell",
+                "last_commit": "2021-03-10T17:37:53Z",
+                "owner": "ansmirnov",
+                "repo": "org-logseq",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dly",
+              "description": "Create a daily note directly from the command line",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588605430,
+                "language": "Go",
+                "last_commit": "2023-04-29T08:30:52Z",
+                "owner": "wsw70",
+                "repo": "dly",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gcal2logseq",
+              "description": "By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288449727,
+                "language": "Python",
+                "last_commit": "2021-02-11T15:35:55Z",
+                "owner": "WillPlatnick",
+                "repo": "gcal2logseq",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "movie-cli-2",
+              "description": "CLI tool for saving movie details into Logseq",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 523115343,
+                "language": "JavaScript",
+                "last_commit": "2023-01-17T21:30:49Z",
+                "owner": "cannibalox",
+                "repo": "movie-cli-2",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc CLI"
         }
       ],
-      "title": "Bibliography and PDF Integrations"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🔍 CLI Tools and Scripts"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "logseq-doctor",
-          "description": "By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T00:39:49Z",
-            "owner": "andreoliwa",
-            "repo": "logseq-doctor",
-            "stars": 107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "longdown",
-          "description": "CLI tool for converting longform markdown to logseq markdown",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-06T15:43:46Z",
-            "owner": "dundalek",
-            "repo": "longdown",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "keep2log",
-          "description": "By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-10T18:04:46Z",
-            "owner": "lugenx",
-            "repo": "keep2log",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dayone2logseq-md",
-          "description": "By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-24T22:15:11Z",
-            "owner": "mhejda",
-            "repo": "dayone2logseq-md",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "todoist2logseq",
-          "description": "By Will - Bash Script + Alfred Workflow to import tasks from Todoist into your graph",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-02-11T15:17:13Z",
-            "owner": "WillPlatnick",
-            "repo": "todoist2logseq",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "joplin-to-logseq-importer",
-          "description": "CLI tool for converting Joplin notes to Logseq markdown.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-02-15T23:01:37Z",
-            "owner": "dasrecht",
-            "repo": "joplin-to-logseq-importer",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "craft-to-logseq",
-          "description": "By omair-inam - A shell script that converts Craft markdown documents and journals into Logseq-friendly markdown files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-02-16T14:57:13Z",
-            "owner": "omair-inam",
-            "repo": "craft-to-logseq",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Conversion CLI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lsq",
-          "description": "CLI tool to quickly create and edit journals",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-02T18:15:47Z",
-            "owner": "jrswab",
-            "repo": "lsq",
-            "stars": 205
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "org-logseq",
-          "description": "By ansmirnov - A script for navigating and editing logseq files using emacs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2021-03-10T17:37:53Z",
-            "owner": "ansmirnov",
-            "repo": "org-logseq",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dly",
-          "description": "Create a daily note directly from the command line",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-04-29T08:30:52Z",
-            "owner": "wsw70",
-            "repo": "dly",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gcal2logseq",
-          "description": "By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-11T15:35:55Z",
-            "owner": "WillPlatnick",
-            "repo": "gcal2logseq",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "movie-cli-2",
-          "description": "CLI tool for saving movie details into Logseq",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-17T21:30:49Z",
-            "owner": "cannibalox",
-            "repo": "movie-cli-2",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Misc CLI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "🌱 Community Knowledge Gardens"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:00:59.909Z",
+    "last_updated": "2026-08-19T12:42:52.984Z",
     "original_repository": "logseq/awesome-logseq",
+    "original_repository_id": 313790074,
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
     "enhanced_repository_description": null,
