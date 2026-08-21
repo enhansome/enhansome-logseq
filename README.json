@@ -57,7 +57,7 @@
             "archived": false,
             "id": 562506464,
             "language": "SCSS",
-            "last_commit": "2026-08-12T01:07:07Z",
+            "last_commit": "2026-08-20T01:46:00Z",
             "owner": "catppuccin",
             "repo": "logseq",
             "stars": 195
@@ -561,7 +561,7 @@
             "last_commit": "2025-10-10T11:06:15Z",
             "owner": "c6p",
             "repo": "logseq-habit-tracker",
-            "stars": 119
+            "stars": 118
           }
         },
         {
@@ -1140,7 +1140,7 @@
                 "archived": false,
                 "id": 471953445,
                 "language": "Go",
-                "last_commit": "2026-08-19T23:42:32Z",
+                "last_commit": "2026-08-20T21:12:01Z",
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T00:01:45.542Z",
+    "last_updated": "2026-08-21T00:01:48.567Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_id": 313790074,
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
