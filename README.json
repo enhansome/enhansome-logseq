@@ -708,7 +708,7 @@
             "archived": false,
             "id": 752276288,
             "language": "TypeScript",
-            "last_commit": "2024-08-18T11:49:12Z",
+            "last_commit": "2026-08-22T06:28:05Z",
             "owner": "CorrectRoadH",
             "repo": "logseq-gallery",
             "stars": 32
@@ -960,7 +960,7 @@
             "archived": false,
             "id": 436896166,
             "language": "Rust",
-            "last_commit": "2026-07-26T02:46:04Z",
+            "last_commit": "2026-08-22T16:15:25Z",
             "owner": "Endle",
             "repo": "fireSeqSearch",
             "stars": 108
@@ -1328,7 +1328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T00:01:29.740Z",
+    "last_updated": "2026-08-22T23:59:56.404Z",
     "original_repository": "logseq/awesome-logseq",
     "original_repository_id": 313790074,
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
