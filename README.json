@@ -1140,7 +1140,7 @@
                 "archived": false,
                 "id": 471953445,
                 "language": "Go",
-                "last_commit": "2026-08-20T21:12:01Z",
+                "last_commit": "2026-08-27T10:48:36Z",
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107
@@ -1328,9 +1328,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:07:15.360Z",
-    "original_repository": "logseq/awesome-logseq",
-    "original_repository_id": 313790074,
+    "last_updated": "2026-08-27T11:53:06.985Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 313790074,
+      "language": null,
+      "last_commit": "2026-04-27T12:19:40Z",
+      "owner": "logseq",
+      "repo": "awesome-logseq",
+      "stars": 2905
+    },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
     "enhanced_repository_description": null,
