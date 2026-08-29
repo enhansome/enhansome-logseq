@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "</> Logseq dev theme",
+            "homepage": "https://pengx17.github.io/knowledge-garden/",
             "id": 376921167,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-08-12T11:16:49Z",
+            "open_issues": 41,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 405
+            "stars": 405,
+            "topics": [
+              "logseq",
+              "logseqtheme"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -26,12 +34,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clean logseq theme focus on bujo and long time writing experience",
+            "homepage": null,
             "id": 369257534,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2025-06-09T21:44:43Z",
+            "open_issues": 9,
             "owner": "Sansui233",
             "repo": "logseq-bonofix-theme",
-            "stars": 255
+            "stars": 255,
+            "topics": [
+              "css",
+              "logseq",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -42,12 +59,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧛🏻‍♂️ Dark theme for Logseq",
+            "homepage": "https://draculatheme.com/logseq",
             "id": 313454252,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-06-23T01:22:16Z",
+            "open_issues": 5,
             "owner": "dracula",
             "repo": "logseq",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "dark-theme",
+              "dracula",
+              "dracula-theme",
+              "logseq"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -58,12 +85,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦫 Soothing pastel theme for Logseq",
+            "homepage": null,
             "id": 562506464,
             "language": "SCSS",
-            "last_commit": "2026-08-20T01:46:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:10:42Z",
+            "open_issues": 18,
             "owner": "catppuccin",
             "repo": "logseq",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "catppuccin",
+              "hacktoberfest",
+              "logseq",
+              "logseq-themes",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -74,12 +112,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bear Theme for Logseq",
+            "homepage": null,
             "id": 430415897,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-05-03T15:29:46Z",
+            "open_issues": 11,
             "owner": "rcvd",
             "repo": "logseq-bear-theme",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "logseq",
+              "logseq-themes",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -90,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS snippets and themes for www.logseq.com",
+            "homepage": null,
             "id": 286349601,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-05-06T18:04:01Z",
+            "open_issues": 6,
             "owner": "cannibalox",
             "repo": "logseq-dark-hpx",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -106,12 +158,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A clean productivity theme. Styled for high readability and minimal eye strain.",
+            "homepage": null,
             "id": 435241081,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-10-05T18:14:41Z",
+            "open_issues": 5,
             "owner": "ttytm",
             "repo": "logseq-allday-theme",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "logseq",
+              "logseq-themes",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -122,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme.",
+            "homepage": null,
             "id": 354093702,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-05-06T08:55:39Z",
+            "open_issues": 0,
             "owner": "dmytrodubinin",
             "repo": "Harmony-theme-for-Logseq",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -138,12 +204,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq theme, inspired by Bullet Journals ☕️",
+            "homepage": "https://logseq.com",
             "id": 553190054,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-12-27T00:04:29Z",
+            "open_issues": 0,
             "owner": "stdword",
             "repo": "logseq-bujo-theme",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "logseq",
+              "logseq-themes"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -154,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq in an arctic, north-bluish color palette 🧊",
+            "homepage": null,
             "id": 615796214,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-03-26T18:45:44Z",
+            "open_issues": 1,
             "owner": "Bad3r",
             "repo": "Logseq-Nord-Theme",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -170,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "logseq-laurel-theme.vercel.app",
             "id": 361315439,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-12-11T13:19:04Z",
+            "open_issues": 6,
             "owner": "pengx17",
             "repo": "logseq-laurel-theme",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -186,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 342644513,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-05-24T22:40:18Z",
+            "open_issues": 3,
             "owner": "PiotrSss",
             "repo": "logseq-clean-themes",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -202,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Theme for Logseq",
+            "homepage": null,
             "id": 338464976,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-06-02T19:13:37Z",
+            "open_issues": 3,
             "owner": "santiyounger",
             "repo": "Cobra",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -218,12 +312,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A more developer-friendly minimalist theme. For more theme styles see: https://github.com/logseq/awesome-logseq",
+            "homepage": "https://docs.unickcheng.cc/#/page/logseq-developer-theme",
             "id": 569064048,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-07-14T19:30:14Z",
+            "open_issues": 9,
             "owner": "UNICKCHENG",
             "repo": "logseq-developer-theme",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "logseq",
+              "logseq-themes",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -234,12 +337,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customisable GitHub like theme for logseq.",
+            "homepage": null,
             "id": 496567421,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-09-21T01:25:16Z",
+            "open_issues": 2,
             "owner": "mendax1234",
             "repo": "logseq-cusgit-theme",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "customized",
+              "github",
+              "logseq",
+              "logseq-themes",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -250,12 +364,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Default Logseq dark theme with 0 saturation background and some other tweaks.",
+            "homepage": "https://l3ony2k.github.io/D42ker-Logseq/",
             "id": 372050079,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-10-06T09:38:08Z",
+            "open_issues": 1,
             "owner": "l3ony2k",
             "repo": "D42ker-Logseq",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "logseq",
+              "logseq-themes",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -266,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enhanced version of the logseq default theme.",
+            "homepage": null,
             "id": 380817194,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-12-27T10:43:50Z",
+            "open_issues": 3,
             "owner": "mschmidtkorth",
             "repo": "logseq-msk-enhanced",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -282,12 +410,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A theme base dev theme",
+            "homepage": null,
             "id": 388062314,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2023-10-07T07:57:22Z",
+            "open_issues": 2,
             "owner": "haydenull",
             "repo": "logseq-woz-theme",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "logseq",
+              "logseq-themes"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -298,12 +434,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 451384283,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-03-25T22:52:57Z",
+            "open_issues": 0,
             "owner": "flowerornament",
             "repo": "logseq-simple-parametric-theme",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -314,12 +455,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 336719894,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-02-12T11:04:01Z",
+            "open_issues": 0,
             "owner": "akhater",
             "repo": "Dracula.logseq",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -330,12 +476,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 441980384,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-01-02T14:35:49Z",
+            "open_issues": 3,
             "owner": "joeykhuang",
             "repo": "logseq-textbook-theme",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "logseq",
+              "logseq-themes"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -346,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a terminal-style dark theme for logseq",
+            "homepage": null,
             "id": 292395246,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-09-09T09:30:27Z",
+            "open_issues": 1,
             "owner": "cannibalox",
             "repo": "logseq_ono-sendai",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -362,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Base16 Styles for LogSeq",
+            "homepage": null,
             "id": 302834791,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2020-10-23T20:53:51Z",
+            "open_issues": 1,
             "owner": "nikdoof",
             "repo": "base16-logseq",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -378,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 291717431,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-09T01:21:33Z",
+            "open_issues": 1,
             "owner": "yashagrawal15",
             "repo": "LogseqxRoam",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -394,12 +563,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple dark theme for Logseq",
+            "homepage": null,
             "id": 450685692,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-02-04T04:25:16Z",
+            "open_issues": 1,
             "owner": "flowerornament",
             "repo": "logseq-simple-dark-theme",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -410,12 +584,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq theme based on \"Based 16 Atelier Forest\"",
+            "homepage": null,
             "id": 356068405,
             "language": "CSS",
+            "license": null,
             "last_commit": "2021-06-04T17:36:35Z",
+            "open_issues": 0,
             "owner": "DenaroCF",
             "repo": "LS-Base16-Atelier-Forest-by-Denaro",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -426,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "logseq-polyrhythmic-theme",
+            "homepage": null,
             "id": 950858583,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-03-21T20:22:26Z",
+            "open_issues": 0,
             "owner": "wonyoung-jang",
             "repo": "logseq-PolyRhythmic",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -442,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1272078670,
             "language": "CSS",
+            "license": "WTFPL",
             "last_commit": "2026-08-04T21:14:29Z",
+            "open_issues": 0,
             "owner": "kevinlangleyjr",
             "repo": "logseq-slatewave",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         }
@@ -464,12 +653,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Logseq plugin which lets you open pages in tabs like working in the browser",
+            "homepage": null,
             "id": 400540729,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-11T03:15:57Z",
+            "open_issues": 51,
             "owner": "pengx17",
             "repo": "logseq-plugin-tabs",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "logseq",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -480,12 +677,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a plugin for https://github.com/logseq/logseq to provide mindmap support based on https://github.com/markmap/markmap.",
+            "homepage": null,
             "id": 388801252,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-06-22T17:12:30Z",
+            "open_issues": 23,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-mark-map",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -496,12 +700,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logtools: utilities for Logseq (kanban, image gallery, priority matrix, ...)",
+            "homepage": null,
             "id": 376945426,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-24T14:09:08Z",
+            "open_issues": 10,
             "owner": "cannibalox",
             "repo": "logtools",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "note-taking",
+              "plugins",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -512,12 +725,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq Templates you will really love ❤️ 🏛️",
+            "homepage": "https://logseq.com",
             "id": 609681795,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-19T11:18:18Z",
+            "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "knowledge-management",
+              "logseq",
+              "logseq-plugin",
+              "note-taking"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -528,12 +751,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add bullet threading to your active blocks in Logseq.",
+            "homepage": null,
             "id": 394667767,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-27T08:18:21Z",
+            "open_issues": 15,
             "owner": "pengx17",
             "repo": "logseq-plugin-bullet-threading",
-            "stars": 188
+            "stars": 188,
+            "topics": [
+              "logseq",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -544,12 +775,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Activity heatmap for logseq ",
+            "homepage": null,
             "id": 374132544,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-29T07:57:32Z",
+            "open_issues": 23,
             "owner": "pengx17",
             "repo": "logseq-plugin-heatmap",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "logseq",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -560,12 +799,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq markdown table editor.",
+            "homepage": null,
             "id": 418902663,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-29T11:49:25Z",
+            "open_issues": 19,
             "owner": "haydenull",
             "repo": "logseq-plugin-markdown-table",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "logseq",
+              "logseq-plugin",
+              "markdown",
+              "table"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -576,12 +825,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preview links in logseq",
+            "homepage": null,
             "id": 397549654,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-03-25T02:02:18Z",
+            "open_issues": 26,
             "owner": "pengx17",
             "repo": "logseq-plugin-link-preview",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "logseq",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -592,12 +849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Habit tracker for Logseq",
+            "homepage": null,
             "id": 396461039,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-10-10T11:06:15Z",
+            "open_issues": 3,
             "owner": "c6p",
             "repo": "logseq-habit-tracker",
-            "stars": 118
+            "stars": 118,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -608,12 +870,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq plugin for sync Memos to logseq.",
+            "homepage": null,
             "id": 572014644,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-11T16:31:14Z",
+            "open_issues": 6,
             "owner": "EINDEX",
             "repo": "logseq-memos-sync",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "logseq",
+              "logseq-plugin",
+              "memos"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -624,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq plugin for hypothes.is",
+            "homepage": null,
             "id": 398859836,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-02-10T11:37:58Z",
+            "open_issues": 5,
             "owner": "c6p",
             "repo": "logseq-hypothesis",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -640,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building an automatic comment history for Logseq",
+            "homepage": null,
             "id": 433711699,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-04T09:47:53Z",
+            "open_issues": 13,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-comment-block",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -656,12 +937,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Jira plugin for Logseq users",
+            "homepage": null,
             "id": 563216878,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-20T00:59:32Z",
+            "open_issues": 11,
             "owner": "adyscorpius",
             "repo": "logseq-jira",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "jira-sync",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -672,12 +961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Logseq plugin help you copy or cut blocks to anywhere you want.",
+            "homepage": "https://www.vipzhicheng.com/logseq-plugin-move-block/",
             "id": 423949952,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-04T08:51:57Z",
+            "open_issues": 2,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-move-block",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -688,12 +982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Talk to AI about your Logseq notes.",
+            "homepage": null,
             "id": 900427998,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-09T19:09:40Z",
+            "open_issues": 14,
             "owner": "chhabrakadabra",
             "repo": "logseq-plugin-copilot",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -704,12 +1003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More highlight colors in Logseq",
+            "homepage": null,
             "id": 380027341,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-16T18:14:57Z",
+            "open_issues": 1,
             "owner": "DenaroCF",
             "repo": "Highlighters-for-Logseq",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -720,12 +1024,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send content from mobile apps to Logseq",
+            "homepage": "https://loglink.it",
             "id": 582916075,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-26T09:48:17Z",
+            "open_issues": 7,
             "owner": "hankhank10",
             "repo": "loglink-plugin",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "logseq",
+              "logseq-plugin",
+              "telegram",
+              "telegram-bot",
+              "whatsapp"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -736,12 +1051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lock each Logseq block in even different password.",
+            "homepage": null,
             "id": 424930091,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T08:32:59Z",
+            "open_issues": 4,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-lock",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -752,12 +1072,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Logseq plugin offering gallery view for result of page query.",
+            "homepage": null,
             "id": 752276288,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T06:28:05Z",
+            "open_issues": 1,
             "owner": "CorrectRoadH",
             "repo": "logseq-gallery",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "logseq",
+              "logseq-plugin",
+              "notion",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -768,12 +1098,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser plugin for logseq",
+            "homepage": null,
             "id": 448518015,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-03-08T02:41:31Z",
+            "open_issues": 4,
             "owner": "haydenull",
             "repo": "logseq-plugin-browser",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "logseq",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -784,12 +1122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A table of contents generator for Logseq",
+            "homepage": null,
             "id": 389335100,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2021-07-28T20:47:17Z",
+            "open_issues": 2,
             "owner": "mschmidtkorth",
             "repo": "logseq-msk-toc",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -800,12 +1143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ai generation of advanced query for logseq",
+            "homepage": null,
             "id": 849815025,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-02T15:12:10Z",
+            "open_issues": 0,
             "owner": "dailydaniel",
             "repo": "logseq-plugin-ai-query",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -816,12 +1164,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "show milestone in calendar for logseq",
+            "homepage": null,
             "id": 444596348,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-24T14:16:19Z",
+            "open_issues": 3,
             "owner": "haydenull",
             "repo": "logseq-plugin-milestone",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "logseq",
+              "logstash-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -832,12 +1188,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically resize markdown image in logseq",
+            "homepage": null,
             "id": 666748128,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T11:14:00Z",
+            "open_issues": 1,
             "owner": "yutaodou",
             "repo": "logseq-image-auto-resizer",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -848,12 +1209,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Insert random Logseq pages as blocks.",
+            "homepage": null,
             "id": 949610618,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-03-29T22:34:53Z",
+            "open_issues": 0,
             "owner": "wonyoung-jang",
             "repo": "logseq-insert-random-pages",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "javascript",
+              "logseq",
+              "logseq-plugin",
+              "plugin",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         }
@@ -870,12 +1242,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq plugin to fetch articles and highlights from Omnivore",
+            "homepage": null,
             "id": 502787948,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-06T22:15:33Z",
+            "open_issues": 34,
             "owner": "omnivore-app",
             "repo": "logseq-omnivore",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "logseq",
+              "logseq-plugin"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -886,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 473563308,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-25T13:25:51Z",
+            "open_issues": 33,
             "owner": "readwiseio",
             "repo": "logseq-readwise-official-plugin",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -902,12 +1287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 554906346,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-06T21:17:00Z",
+            "open_issues": 1,
             "owner": "getmatterapp",
             "repo": "logseq-matter",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -918,12 +1308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync WuCai highlights to Logseq",
+            "homepage": null,
             "id": 638136938,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-12T07:01:31Z",
+            "open_issues": 0,
             "owner": "makediff",
             "repo": "logseq-wucai-official-plugin",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         }
@@ -940,12 +1335,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yarle - The ultimate converter of Evernote notes to Markdown",
+            "homepage": "https://github.com/akosbalasko/yarle",
             "id": 151837779,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-31T19:44:02Z",
+            "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1796
+            "stars": 1796,
+            "topics": [
+              "converter",
+              "desktop-application",
+              "electron-app",
+              "enex",
+              "enex-files",
+              "evernote",
+              "evernote-enex",
+              "evernote-export",
+              "evernote-markup-language",
+              "evernote-to-logseq",
+              "logseq",
+              "markdown",
+              "markdown-converter",
+              "metadata",
+              "note-taking",
+              "obsidian",
+              "obsidian-md",
+              "ultimate-converter",
+              "zero-install",
+              "zettelkasten"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -956,12 +1377,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logseq Copilot is a Browser extension that allows you to access your Logseq via your browser.",
+            "homepage": "https://logseq-copilot.eindex.me",
             "id": 600764100,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T10:28:37Z",
+            "open_issues": 18,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "browser-extension",
+              "logseq",
+              "notes",
+              "searching"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -972,12 +1403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 336625445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-13T14:42:34Z",
+            "open_issues": 2,
             "owner": "akhater",
             "repo": "Lupin",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -988,12 +1424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide to deploy logseq.com",
+            "homepage": null,
             "id": 331541559,
             "language": null,
+            "license": null,
             "last_commit": "2021-05-20T05:58:33Z",
+            "open_issues": 4,
             "owner": "dustinlacewell",
             "repo": "logseq-guide",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1004,12 +1445,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
+            "homepage": null,
             "id": 1204634199,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-08T15:10:15Z",
+            "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "ai",
+              "claude-code",
+              "developer-tools",
+              "karpathy",
+              "knowledge-management",
+              "llm",
+              "logseq",
+              "obsidian",
+              "productivity",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1020,12 +1477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "When using search engine, it would also search local logseq notebook",
+            "homepage": null,
             "id": 436896166,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-22T16:15:25Z",
+            "open_issues": 9,
             "owner": "Endle",
             "repo": "fireSeqSearch",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1036,12 +1498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Org-logseq allows you to open logseq-style page and block link along with Org Mode.",
+            "homepage": null,
             "id": 352059183,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2023-09-20T02:49:59Z",
+            "open_issues": 4,
             "owner": "llcc",
             "repo": "org-logseq",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1052,12 +1519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to encrypt/decrypt Logseq graphs",
+            "homepage": null,
             "id": 347390687,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-25T06:46:39Z",
+            "open_issues": 3,
             "owner": "kanru",
             "repo": "logseq-encrypt-ui",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1068,12 +1540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Snippets I'm using with logseq.com.",
+            "homepage": null,
             "id": 314390027,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-23T19:32:01Z",
+            "open_issues": 0,
             "owner": "71",
             "repo": "logseq-snippets",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1084,12 +1561,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A couple of (hopefully!) useful utilities to help us to work with Logseq",
+            "homepage": "https://piotrsss.github.io/logseq-tools/public/",
             "id": 339061334,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2021-04-19T14:54:05Z",
+            "open_issues": 1,
             "owner": "PiotrSss",
             "repo": "logseq-tools",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "bootstrap5",
+              "logseq",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1100,12 +1586,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notebook with simple python code to undo a mass change in LogSeq",
+            "homepage": null,
             "id": 871793631,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-10-13T00:30:39Z",
+            "open_issues": 0,
             "owner": "jmbenedetto",
             "repo": "logseq_mass_pages_recovery",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1118,12 +1609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 461228867,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-30T11:58:04Z",
+                "open_issues": 36,
                 "owner": "sawhney17",
                 "repo": "logseq-pdf-export",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1134,12 +1630,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 479772905,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-05-30T12:01:21Z",
+                "open_issues": 33,
                 "owner": "sawhney17",
                 "repo": "logseq-citation-manager",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1150,12 +1651,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Import Zotero into Logseq, extract text or area Highlights into block.",
+                "homepage": null,
                 "id": 720918461,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-08T18:20:22Z",
+                "open_issues": 2,
                 "owner": "e-zz",
                 "repo": "logseq-pdf-extract",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1166,12 +1672,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jump back after you click internal links of PDF in Logseq.",
+                "homepage": null,
                 "id": 590184903,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-10-13T05:38:28Z",
+                "open_issues": 2,
                 "owner": "OverflowCat",
                 "repo": "logseq-pdf-nav",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "logseq",
+                  "logseq-plugin"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1182,12 +1696,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "zotering in logseq",
+                "homepage": null,
                 "id": 330245197,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-02-20T22:00:53Z",
+                "open_issues": 5,
                 "owner": "aljedaxi",
                 "repo": "logseq-zotero",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             }
@@ -1211,12 +1730,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Heal your Markdown files: convert to outline, list tasks and more tools to come",
+                "homepage": "https://andreoliwa.github.io/logseq-doctor/",
                 "id": 471953445,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:56:56Z",
+                "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "logseq",
+                  "logseq-plugin",
+                  "markdown",
+                  "markdown-format",
+                  "markdown-formatter",
+                  "markdown-formatting",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1227,12 +1762,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert longform markdown files to outline format used by Logseq",
+                "homepage": null,
                 "id": 629532324,
                 "language": "Clojure",
+                "license": "0BSD",
                 "last_commit": "2026-04-06T15:43:46Z",
+                "open_issues": 0,
                 "owner": "dundalek",
                 "repo": "longdown",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "logseq",
+                  "longform",
+                  "markdown",
+                  "outliner"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1243,12 +1788,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Keep to Logseq Converter",
+                "homepage": null,
                 "id": 634136086,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-09-10T18:04:46Z",
+                "open_issues": 3,
                 "owner": "lugenx",
                 "repo": "keep2log",
-                "stars": 37
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1259,12 +1809,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converting DayOne journals into markdown files compatible with Logseq",
+                "homepage": null,
                 "id": 393661384,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2022-07-24T22:15:11Z",
+                "open_issues": 0,
                 "owner": "mhejda",
                 "repo": "dayone2logseq-md",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1275,12 +1830,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Todoist to Roam",
+                "homepage": null,
                 "id": 288592286,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-02-11T15:17:13Z",
+                "open_issues": 3,
                 "owner": "WillPlatnick",
                 "repo": "todoist2logseq",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1291,12 +1851,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A very rough and minimalistic joplin to logseq importer - don't blame me i usually don't write go ;)",
+                "homepage": null,
                 "id": 933411951,
                 "language": "Go",
+                "license": "Unlicense",
                 "last_commit": "2025-02-15T23:01:37Z",
+                "open_issues": 0,
                 "owner": "dasrecht",
                 "repo": "joplin-to-logseq-importer",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "joplin",
+                  "logseq"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1307,12 +1875,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script to convert Craft.do Markdown files to Logseq files",
+                "homepage": null,
                 "id": 933321944,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-02-16T14:57:13Z",
+                "open_issues": 0,
                 "owner": "omair-inam",
                 "repo": "craft-to-logseq",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "converter",
+                  "craft",
+                  "craftdocs",
+                  "logseq"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             }
@@ -1330,12 +1908,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The command-line tool for Logseq. Quickly create or edit journal entries and pages.",
+                "homepage": null,
                 "id": 894702569,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-02T18:15:47Z",
+                "open_issues": 5,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "logseq",
+                  "notes",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1346,12 +1933,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script for navigating and editing logseq files using emacs",
+                "homepage": null,
                 "id": 346435613,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-03-10T17:37:53Z",
+                "open_issues": 0,
                 "owner": "ansmirnov",
                 "repo": "org-logseq",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "logseq",
+                  "note-taking",
+                  "org-mode",
+                  "personal-knowledge-base",
+                  "personal-knowledge-management"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1362,12 +1960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your daily note from the command line",
+                "homepage": null,
                 "id": 588605430,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-04-29T08:30:52Z",
+                "open_issues": 2,
                 "owner": "wsw70",
                 "repo": "dly",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1378,12 +1981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Export today's Google Calendar entries to Roam (Python and Alfred Workflow)",
+                "homepage": null,
                 "id": 288449727,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-02-11T15:35:55Z",
+                "open_issues": 0,
                 "owner": "WillPlatnick",
                 "repo": "gcal2logseq",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             },
@@ -1394,12 +2002,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CLI tool to fetch and save movie details from omdb and comparing two movies. Nice for tracking watched movies in Logseq. ",
+                "homepage": null,
                 "id": 523115343,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-17T21:30:49Z",
+                "open_issues": 1,
                 "owner": "cannibalox",
                 "repo": "movie-cli-2",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "cli",
+                  "fetch",
+                  "logseq",
+                  "movies",
+                  "omdb",
+                  "shell-script",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
             }
@@ -1413,15 +2034,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:05:58.328Z",
+    "last_updated": "2026-08-29T04:22:54.021Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Logseq resources created by the community <3",
+      "homepage": null,
       "id": 313790074,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-27T12:19:40Z",
+      "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2904
+      "stars": 2904,
+      "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
     "enhanced_repository": "enhansome/enhansome-logseq",
