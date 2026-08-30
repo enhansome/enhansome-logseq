@@ -68,7 +68,7 @@
             "open_issues": 5,
             "owner": "dracula",
             "repo": "logseq",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "dark-theme",
               "dracula",
@@ -464,7 +464,7 @@
             "open_issues": 0,
             "owner": "akhater",
             "repo": "Dracula.logseq",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-28T05:56:56Z",
+                "last_commit": "2026-08-30T00:59:19Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:22:54.021Z",
+    "last_updated": "2026-08-30T01:45:19.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2904,
+      "stars": 2903,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
