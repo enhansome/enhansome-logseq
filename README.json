@@ -925,7 +925,7 @@
             "open_issues": 13,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-comment-block",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1454,7 +1454,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "ai",
               "claude-code",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:39:00.878Z",
+    "last_updated": "2026-09-01T02:04:33.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2904,
+      "stars": 2905,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
