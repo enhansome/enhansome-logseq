@@ -808,7 +808,7 @@
             "open_issues": 19,
             "owner": "haydenull",
             "repo": "logseq-plugin-markdown-table",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "logseq",
               "logseq-plugin",
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1797,
+            "stars": 1798,
             "topics": [
               "converter",
               "desktop-application",
@@ -1454,7 +1454,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 143,
+            "stars": 145,
             "topics": [
               "ai",
               "claude-code",
@@ -1913,8 +1913,8 @@
                 "id": 894702569,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-04-02T18:15:47Z",
-                "open_issues": 5,
+                "last_commit": "2026-09-01T12:12:02Z",
+                "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
                 "stars": 205,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:04:33.673Z",
+    "last_updated": "2026-09-02T01:27:18.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2905,
+      "stars": 2908,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
