@@ -64,8 +64,8 @@
             "id": 313454252,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2025-06-23T01:22:16Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-02T08:53:07Z",
+            "open_issues": 1,
             "owner": "dracula",
             "repo": "logseq",
             "stars": 202,
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "converter",
               "desktop-application",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:27:18.149Z",
+    "last_updated": "2026-09-03T01:30:52.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2908,
+      "stars": 2910,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
