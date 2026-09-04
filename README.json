@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:10:42Z",
+            "last_commit": "2026-09-04T00:31:49Z",
             "open_issues": 18,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -734,7 +734,7 @@
             "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "knowledge-management",
               "logseq",
@@ -1735,8 +1735,8 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-30T18:03:55Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-04T01:11:15Z",
+                "open_issues": 9,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:30:52.432Z",
+    "last_updated": "2026-09-04T01:24:38.660Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2910,
+      "stars": 2911,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
