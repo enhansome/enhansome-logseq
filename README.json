@@ -662,7 +662,7 @@
             "open_issues": 51,
             "owner": "pengx17",
             "repo": "logseq-plugin-tabs",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "logseq",
               "logseq-plugin"
@@ -1433,7 +1433,7 @@
             "open_issues": 4,
             "owner": "dustinlacewell",
             "repo": "logseq-guide",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,8 +1735,8 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-04T01:11:15Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-04T16:46:02Z",
+                "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107,
@@ -1917,7 +1917,7 @@
                 "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 205,
+                "stars": 206,
                 "topics": [
                   "logseq",
                   "notes",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:24:38.660Z",
+    "last_updated": "2026-09-05T01:26:41.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
