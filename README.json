@@ -1251,7 +1251,7 @@
             "open_issues": 34,
             "owner": "omnivore-app",
             "repo": "logseq-omnivore",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "logseq",
               "logseq-plugin"
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1799,
+            "stars": 1801,
             "topics": [
               "converter",
               "desktop-application",
@@ -1454,7 +1454,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "ai",
               "claude-code",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:21:23.412Z",
+    "last_updated": "2026-09-07T01:19:21.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
