@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1801,
+            "stars": 1803,
             "topics": [
               "converter",
               "desktop-application",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-05T12:46:07Z",
+                "last_commit": "2026-09-07T23:46:29Z",
                 "open_issues": 9,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:19:21.159Z",
+    "last_updated": "2026-09-08T01:27:18.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
