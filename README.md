@@ -30,7 +30,7 @@ Awesome Logseq extensions and resources created by the community <3
 * [logseq-bujo-theme](https://github.com/stdword/logseq-bujo-theme) ⭐ 70 | 🐛 0 | 🌐 CSS | 📅 2025-12-27 by PiotrSss & stdword, inspired by Bullet Journals ☕️
 * [Logseq-Nord-Theme](https://github.com/Bad3r/Logseq-Nord-Theme) ⭐ 59 | 🐛 1 | 🌐 CSS | 📅 2024-03-26 by Bad3r
 * [logseq-clean-themes-alt a fork of logseq-clean-themes](https://github.com/pengx17/logseq-clean-themes-alt) ⭐ 57 | 🐛 6 | 🌐 CSS | 📅 2021-12-11 By pengx17
-* [logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes) ⭐ 52 | 🐛 3 | 🌐 CSS | 📅 2021-05-24 By PiotrSss
+* [logseq-clean-themes](https://github.com/PiotrSss/logseq-clean-themes) ⭐ 53 | 🐛 3 | 🌐 CSS | 📅 2021-05-24 By PiotrSss
 * [Cobra](https://github.com/santiyounger/Cobra) ⭐ 50 | 🐛 3 | 🌐 CSS | 📅 2022-06-02 by santiyounger
 * [logseq-developer-theme](https://github.com/UNICKCHENG/logseq-developer-theme) ⭐ 44 | 🐛 9 | 🌐 SCSS | 📅 2024-07-14 by UNICKCHENG
 * [logseq-cusgit-theme](https://github.com/mendax1234/logseq-cusgit-theme) ⭐ 40 | 🐛 2 | 🌐 CSS | 📅 2023-09-21 By mendax1234
@@ -62,7 +62,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 148 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 118 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 62,838 | 🐛 65 | 🌐 Go | 📅 2026-09-08 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 62,854 | 🐛 68 | 🌐 Go | 📅 2026-09-08 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 93 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -139,7 +139,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 ### Conversion CLI
 
-* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 107 | 🐛 9 | 🌐 Go | 📅 2026-09-07 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
+* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 107 | 🐛 10 | 🌐 Go | 📅 2026-09-08 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 * [longdown](https://github.com/dundalek/longdown) ⭐ 50 | 🐛 0 | 🌐 Clojure | 📅 2026-04-06 - CLI tool for converting longform markdown to logseq markdown
 * [keep2log](https://github.com/lugenx/keep2log) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2023-09-10 By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 * [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2022-07-24 By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

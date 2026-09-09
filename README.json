@@ -279,7 +279,7 @@
             "open_issues": 3,
             "owner": "PiotrSss",
             "repo": "logseq-clean-themes",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,8 +1735,8 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-07T23:46:29Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-08T17:50:00Z",
+                "open_issues": 10,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:27:18.552Z",
+    "last_updated": "2026-09-09T01:36:26.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
