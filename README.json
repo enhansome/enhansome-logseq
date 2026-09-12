@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1803,
+            "stars": 1804,
             "topics": [
               "converter",
               "desktop-application",
@@ -1570,7 +1570,7 @@
             "open_issues": 1,
             "owner": "PiotrSss",
             "repo": "logseq-tools",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "bootstrap5",
               "logseq",
@@ -1736,7 +1736,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-10T22:08:53Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:30:21.187Z",
+    "last_updated": "2026-09-12T01:36:04.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2912,
+      "stars": 2913,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
