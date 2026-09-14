@@ -858,7 +858,7 @@
             "open_issues": 3,
             "owner": "c6p",
             "repo": "logseq-habit-tracker",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1804,
+            "stars": 1805,
             "topics": [
               "converter",
               "desktop-application",
@@ -1735,8 +1735,8 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-13T00:38:11Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-13T22:12:01Z",
+                "open_issues": 13,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
                 "stars": 107,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:26:51.988Z",
+    "last_updated": "2026-09-14T01:44:09.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
