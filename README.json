@@ -91,7 +91,7 @@
             "language": "SCSS",
             "license": "MIT",
             "last_commit": "2026-09-12T09:41:23Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
             "stars": 195,
@@ -1454,7 +1454,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "ai",
               "claude-code",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-13T22:12:01Z",
+                "last_commit": "2026-09-14T20:08:20Z",
                 "open_issues": 13,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -1917,7 +1917,7 @@
                 "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "logseq",
                   "notes",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:44:09.048Z",
+    "last_updated": "2026-09-15T01:55:33.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2913,
+      "stars": 2914,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
