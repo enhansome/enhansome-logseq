@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-09-12T09:41:23Z",
+            "last_commit": "2026-09-15T15:01:24Z",
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -1570,7 +1570,7 @@
             "open_issues": 1,
             "owner": "PiotrSss",
             "repo": "logseq-tools",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "bootstrap5",
               "logseq",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:55:33.331Z",
+    "last_updated": "2026-09-16T01:44:31.706Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 3,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2914,
+      "stars": 2915,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
