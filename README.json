@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 405,
+            "stars": 404,
             "topics": [
               "logseq",
               "logseqtheme"
@@ -464,7 +464,7 @@
             "open_issues": 0,
             "owner": "akhater",
             "repo": "Dracula.logseq",
-            "stars": 21,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -808,7 +808,7 @@
             "open_issues": 19,
             "owner": "haydenull",
             "repo": "logseq-plugin-markdown-table",
-            "stars": 148,
+            "stars": 147,
             "topics": [
               "logseq",
               "logseq-plugin",
@@ -834,7 +834,7 @@
             "open_issues": 26,
             "owner": "pengx17",
             "repo": "logseq-plugin-link-preview",
-            "stars": 131,
+            "stars": 130,
             "topics": [
               "logseq",
               "plugin"
@@ -904,7 +904,7 @@
             "open_issues": 5,
             "owner": "c6p",
             "repo": "logseq-hypothesis",
-            "stars": 93,
+            "stars": 92,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1412,8 +1412,40 @@
             "open_issues": 2,
             "owner": "akhater",
             "repo": "Lupin",
-            "stars": 169,
+            "stars": 168,
             "topics": []
+          },
+          "first_seen": "2026-08-28T07:05:58.328Z"
+        },
+        {
+          "node_type": "item",
+          "title": "llm-wiki",
+          "description": "by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements Karpathy's LLM Wiki pattern with five operations (, , , , ), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
+            "homepage": null,
+            "id": 1204634199,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-09-16T14:26:04Z",
+            "open_issues": 0,
+            "owner": "MehmetGoekce",
+            "repo": "llm-wiki",
+            "stars": 146,
+            "topics": [
+              "ai",
+              "claude-code",
+              "developer-tools",
+              "karpathy",
+              "knowledge-management",
+              "llm",
+              "logseq",
+              "obsidian",
+              "productivity",
+              "wiki"
+            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1433,40 +1465,8 @@
             "open_issues": 4,
             "owner": "dustinlacewell",
             "repo": "logseq-guide",
-            "stars": 146,
+            "stars": 145,
             "topics": []
-          },
-          "first_seen": "2026-08-28T07:05:58.328Z"
-        },
-        {
-          "node_type": "item",
-          "title": "llm-wiki",
-          "description": "by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements Karpathy's LLM Wiki pattern with five operations (, , , , ), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
-            "homepage": null,
-            "id": 1204634199,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-06-08T15:10:15Z",
-            "open_issues": 0,
-            "owner": "MehmetGoekce",
-            "repo": "llm-wiki",
-            "stars": 146,
-            "topics": [
-              "ai",
-              "claude-code",
-              "developer-tools",
-              "karpathy",
-              "knowledge-management",
-              "llm",
-              "logseq",
-              "obsidian",
-              "productivity",
-              "wiki"
-            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -1705,7 +1705,7 @@
                 "open_issues": 5,
                 "owner": "aljedaxi",
                 "repo": "logseq-zotero",
-                "stars": 20,
+                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1917,7 +1917,7 @@
                 "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "logseq",
                   "notes",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:44:31.706Z",
+    "last_updated": "2026-09-17T01:44:45.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2043,10 +2043,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-27T12:19:40Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2915,
+      "stars": 2913,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
