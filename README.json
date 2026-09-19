@@ -1033,7 +1033,7 @@
             "open_issues": 7,
             "owner": "hankhank10",
             "repo": "loglink-plugin",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "logseq",
               "logseq-plugin",
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1805,
+            "stars": 1806,
             "topics": [
               "converter",
               "desktop-application",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-17T19:44:15Z",
+                "last_commit": "2026-09-19T00:15:10Z",
                 "open_issues": 13,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:35:03.055Z",
+    "last_updated": "2026-09-19T01:39:57.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
