@@ -56,13 +56,13 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) ⭐ 347 | 🐛 51 | 🌐 TypeScript | 📅 2024-03-11 by pengx17 - A Logseq plugin which lets you open pages in tabs like working in the browser
 * [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) ⭐ 327 | 🐛 23 | 🌐 TypeScript | 📅 2024-06-22 By vipzhicheng - Add markmap support to Logseq
 * [tools and plugins for logseq](https://github.com/cannibalox/logtools) ⭐ 252 | 🐛 10 | 🌐 JavaScript | 📅 2024-11-24 By cannibalox
-* [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) ⭐ 211 | 🐛 5 | 🌐 TypeScript | 📅 2025-02-19 by stdword — Logseq Templates you will really love ❤️
+* [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) ⭐ 212 | 🐛 5 | 🌐 TypeScript | 📅 2025-02-19 by stdword — Logseq Templates you will really love ❤️
 * [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) ⭐ 188 | 🐛 15 | 🌐 TypeScript | 📅 2023-05-27 by pengx17 - Add bullet threading to your active blocks in Logseq
 * [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) ⭐ 174 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-29 By pengx17 - Activity heatmap based on Journal Pages
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 147 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 119 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,197 | 🐛 65 | 🌐 Go | 📅 2026-09-20 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,230 | 🐛 69 | 🌐 Go | 📅 2026-09-22 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -70,8 +70,8 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-copilot](https://github.com/chhabrakadabra/logseq-plugin-copilot) ⭐ 47 | 🐛 14 | 🌐 TypeScript | 📅 2025-05-09 by chhabrakadabra - Talk to AI about your Logseq notes.
 * [Highlighters for Logseq Plugin](https://github.com/DenaroCF/Highlighters-for-Logseq) ⭐ 45 | 🐛 1 | 🌐 JavaScript | 📅 2021-11-16 By DenaroCF - Add more colors for highlight in Logseq using slash commands
 * [loglink](https://github.com/hankhank10/loglink-plugin) ⭐ 40 | 🐛 7 | 🌐 JavaScript | 📅 2023-12-26 by hankhank10 - Send content from mobile apps like Telegram to your Logseq graph
-* [logseq-plugin-lock](https://github.com/vipzhicheng/logseq-plugin-lock) ⭐ 38 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-25 By vipzhicheng - Lock block with your password, and only can unlock with your password
-* [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) ⭐ 32 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-22 by CorrectRoad - provides a gallery view for query.
+* [logseq-plugin-lock](https://github.com/vipzhicheng/logseq-plugin-lock) ⭐ 39 | 🐛 4 | 🌐 TypeScript | 📅 2025-04-25 By vipzhicheng - Lock block with your password, and only can unlock with your password
+* [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-22 by CorrectRoad - provides a gallery view for query.
 * [logseq-logseq-plugin-browser](https://github.com/haydenull/logseq-plugin-browser) ⭐ 31 | 🐛 4 | 🌐 TypeScript | 📅 2022-03-08 by haydenull - Logseq browser plugin
 * [Table of Contents for pages](https://github.com/mschmidtkorth/logseq-msk-toc) ⭐ 28 | 🐛 2 | 🌐 Vue | 📅 2021-07-28 By mschmidtkorth - See all of your headings for the current page and quickly navigate
 * [logseq-plugin-ai-query](https://github.com/dailydaniel/logseq-plugin-ai-query) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2024-12-02 - AI generation of advanced queries
@@ -108,11 +108,11 @@ These are integrations that are officially supported by the third party:
 
 ## 💡 Workflows and Innovations
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,806 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 85 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
 * [logseq-copilot](https://github.com/EINDEX/logseq-copilot) ⭐ 317 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11 - Chrome extension that display logseq
   results next to google ones
 * [Lupin](https://github.com/akhater/Lupin) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2021-04-13 By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
-* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 146 | 🐛 0 | 🌐 Shell | 📅 2026-09-16 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
+* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 147 | 🐛 0 | 🌐 Shell | 📅 2026-09-16 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
 * [logseq-guide](https://github.com/dustinlacewell/logseq-guide) ⭐ 145 | 🐛 4 | 📅 2021-05-20 - Self hosting Logseq
 * [fireSeqSearch](https://github.com/Endle/fireSeqSearch) ⭐ 108 | 🐛 9 | 🌐 Rust | 📅 2026-08-22 - Extension that displays logseq results
   alongside google ones
@@ -130,7 +130,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 * [logseq-pdf-export](https://github.com/sawhney17/logseq-pdf-export) ⭐ 128 | 🐛 36 | 🌐 TypeScript | 📅 2025-05-30 by sawhney17 - customizable PDF export
 * [logseq-citation-manager](https://github.com/sawhney17/logseq-citation-manager) ⭐ 79 | 🐛 33 | 🌐 TypeScript | 📅 2025-05-30 by sawhney17 - Works on .bib files, so it supports Zotero, Paperpile and any other bib manager that supports this standard format
-* [logseq-pdf-extract](https://github.com/e-zz/logseq-pdf-extract) ⭐ 40 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-08 by e-zz - Works with local zotero (no internet needed, thus faster), [OCRs and extracts math formulas](\[url]\(https://github.com/e-zz/logseq-pdf-extract?tab=readme-ov-file#2-annotation-extraction-\)) ([see comparison](https://github.com/e-zz/logseq-pdf-extract/discussions/6) ⭐ 40 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-08)
+* [logseq-pdf-extract](https://github.com/e-zz/logseq-pdf-extract) ⭐ 40 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-21 by e-zz - Works with local zotero (no internet needed, thus faster), [OCRs and extracts math formulas](\[url]\(https://github.com/e-zz/logseq-pdf-extract?tab=readme-ov-file#2-annotation-extraction-\)) ([see comparison](https://github.com/e-zz/logseq-pdf-extract/discussions/6) ⭐ 40 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-21)
 * [logseq-pdf-nav](https://github.com/OverflowCat/logseq-pdf-nav) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2023-10-13 by OverflowCat - better navigation between internal PDF locations
 * [logseq-zotero](https://github.com/aljedaxi/logseq-zotero/) ⚠️ Archived By Aljedaxi - rudimentary means of exporting a zotero library to logseq
 * [/zotero](https://docs.logseq.com/#/page/zotero) command - native Zotero integration
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

@@ -734,7 +734,7 @@
             "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "knowledge-management",
               "logseq",
@@ -1060,7 +1060,7 @@
             "open_issues": 4,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-lock",
-            "stars": 38,
+            "stars": 39,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1081,7 +1081,7 @@
             "open_issues": 1,
             "owner": "CorrectRoadH",
             "repo": "logseq-gallery",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "logseq",
               "logseq-plugin",
@@ -1344,7 +1344,7 @@
             "open_issues": 85,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1806,
+            "stars": 1807,
             "topics": [
               "converter",
               "desktop-application",
@@ -1433,7 +1433,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai",
               "claude-code",
@@ -1656,7 +1656,7 @@
                 "id": 720918461,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-05-08T18:20:22Z",
+                "last_commit": "2026-09-21T16:52:39Z",
                 "open_issues": 2,
                 "owner": "e-zz",
                 "repo": "logseq-pdf-extract",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T01:43:57.327Z",
+    "last_updated": "2026-09-22T01:55:04.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2913,
+      "stars": 2914,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
