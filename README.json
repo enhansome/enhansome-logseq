@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-09-15T15:01:24Z",
+            "last_commit": "2026-09-22T19:16:08Z",
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -635,7 +635,7 @@
             "open_issues": 0,
             "owner": "kevinlangleyjr",
             "repo": "logseq-slatewave",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -966,11 +966,11 @@
             "id": 423949952,
             "language": "CSS",
             "license": "NOASSERTION",
-            "last_commit": "2025-05-04T08:51:57Z",
+            "last_commit": "2026-09-22T02:36:04Z",
             "open_issues": 2,
             "owner": "vipzhicheng",
             "repo": "logseq-plugin-move-block",
-            "stars": 57,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,11 +1735,11 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-20T05:41:35Z",
+                "last_commit": "2026-09-22T18:11:10Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "knowledge-base",
                   "knowledge-graph",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T01:55:04.429Z",
+    "last_updated": "2026-09-23T01:50:03.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2914,
+      "stars": 2917,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
