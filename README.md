@@ -19,7 +19,7 @@ Awesome Logseq extensions and resources created by the community <3
 
 ## 🎨 CSS Themes
 
-* [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) ⭐ 404 | 🐛 41 | 🌐 CSS | 📅 2024-08-12 By pengx17
+* [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) ⭐ 404 | 🐛 39 | 🌐 CSS | 📅 2024-08-12 By pengx17
 * [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) ⭐ 255 | 🐛 9 | 🌐 SCSS | 📅 2025-06-09 By Sansui233
 * [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) ⭐ 202 | 🐛 2 | 🌐 CSS | 📅 2026-09-02 By SlyBouhafs
 * [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-09-24 by griimick
@@ -62,7 +62,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 146 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 119 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 98 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,341 | 🐛 69 | 🌐 Go | 📅 2026-09-25 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 98 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,357 | 🐛 67 | 🌐 Go | 📅 2026-09-27 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -104,11 +104,11 @@ These are integrations that are officially supported by the third party:
 * [Making Obsidian play nice with Logseq](https://discuss.logseq.com/t/making-obsidian-play-nice-with-logseq/1185) By Luhmann
 * [Bookmarklets that copy webpage title + URL+ selection to md/org formats, convenient for pasting to logseq](https://gist.github.com/idelem/a2b15c4fe7613487e16fb55ba3af1be9)
 * [Publish your notes as site](https://devops.bike/publish-your-notes-as-site)
-* [✨Logseq Demo Graph✨](https://github.com/candideu/Logseq-Demo-Graph) ⭐ 21 | 🐛 0 | 📅 2023-07-18:  Quick start Logseq graph to find your way around the app. Learn about blocks, pages, internal links, references, graphs, formatting, plugins, advanced tips and tricks, working with media files, and publishing your graph online
+* [✨Logseq Demo Graph✨](https://github.com/candideu/Logseq-Demo-Graph) ⭐ 20 | 🐛 0 | 📅 2023-07-18:  Quick start Logseq graph to find your way around the app. Learn about blocks, pages, internal links, references, graphs, formatting, plugins, advanced tips and tricks, working with media files, and publishing your graph online
 
 ## 💡 Workflows and Innovations
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,807 | 🐛 91 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,805 | 🐛 91 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
 * [logseq-copilot](https://github.com/EINDEX/logseq-copilot) ⭐ 317 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11 - Chrome extension that display logseq
   results next to google ones
 * [Lupin](https://github.com/akhater/Lupin) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2021-04-13 By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
@@ -150,7 +150,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 ### Misc CLI
 
 * [lsq](https://github.com/jrswab/lsq) ⭐ 209 | 🐛 4 | 🌐 Go | 📅 2026-09-01 - CLI tool to quickly create and edit journals
-* [org-logseq](https://github.com/ansmirnov/org-logseq) ⭐ 43 | 🐛 0 | 🌐 Shell | 📅 2021-03-10 By ansmirnov - A script for navigating and editing logseq files using emacs
+* [org-logseq](https://github.com/ansmirnov/org-logseq) ⭐ 44 | 🐛 0 | 🌐 Shell | 📅 2021-03-10 By ansmirnov - A script for navigating and editing logseq files using emacs
 * [dly](https://github.com/wsw70/dly) ⭐ 39 | 🐛 2 | 🌐 Go | 📅 2023-04-29 - Create a daily note directly from the command line
 * [gcal2logseq](https://github.com/WilliamDurin/gcal2logseq) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2021-02-11 By Will - Python Script + Alfred Workflow to add Google Calendar events into your graph
 * [movie-cli-2](https://github.com/cannibalox/movie-cli-2) ⭐ 11 | 🐛 1 | 🌐 JavaScript | 📅 2023-01-17 - CLI tool for saving movie details into Logseq
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._

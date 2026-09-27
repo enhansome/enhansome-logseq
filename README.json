@@ -16,7 +16,7 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2024-08-12T11:16:49Z",
-            "open_issues": 41,
+            "open_issues": 39,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
             "stars": 404,
@@ -1344,7 +1344,7 @@
             "open_issues": 91,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1807,
+            "stars": 1805,
             "topics": [
               "converter",
               "desktop-application",
@@ -1942,7 +1942,7 @@
                 "open_issues": 0,
                 "owner": "ansmirnov",
                 "repo": "org-logseq",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "logseq",
                   "note-taking",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T02:03:03.979Z",
+    "last_updated": "2026-09-27T01:52:18.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2921,
+      "stars": 2918,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
