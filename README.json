@@ -1433,7 +1433,7 @@
             "open_issues": 0,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "ai",
               "claude-code",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-25T12:06:36Z",
+                "last_commit": "2026-09-27T18:45:12Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:52:18.932Z",
+    "last_updated": "2026-09-28T02:00:33.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2918,
+      "stars": 2917,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
