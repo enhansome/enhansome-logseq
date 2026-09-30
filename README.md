@@ -20,9 +20,9 @@ Awesome Logseq extensions and resources created by the community <3
 ## 🎨 CSS Themes
 
 * [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) ⭐ 404 | 🐛 39 | 🌐 CSS | 📅 2024-08-12 By pengx17
-* [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) ⭐ 255 | 🐛 9 | 🌐 SCSS | 📅 2025-06-09 By Sansui233
+* [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) ⭐ 256 | 🐛 9 | 🌐 SCSS | 📅 2025-06-09 By Sansui233
 * [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) ⭐ 202 | 🐛 2 | 🌐 CSS | 📅 2026-09-02 By SlyBouhafs
-* [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-09-24 by griimick
+* [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-09-30 by griimick
 * [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) ⭐ 153 | 🐛 11 | 🌐 CSS | 📅 2022-05-03 by Alexander Rink
 * [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) ⭐ 96 | 🐛 6 | 🌐 CSS | 📅 2022-05-06 By Cannibalox
 * [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) ⭐ 94 | 🐛 5 | 🌐 CSS | 📅 2023-10-05 by tobealive
@@ -56,13 +56,13 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-tabs](https://github.com/pengx17/logseq-plugin-tabs) ⭐ 347 | 🐛 51 | 🌐 TypeScript | 📅 2024-03-11 by pengx17 - A Logseq plugin which lets you open pages in tabs like working in the browser
 * [logseq-plugin-mark-map](https://github.com/vipzhicheng/logseq-plugin-mark-map) ⭐ 327 | 🐛 23 | 🌐 TypeScript | 📅 2024-06-22 By vipzhicheng - Add markmap support to Logseq
 * [tools and plugins for logseq](https://github.com/cannibalox/logtools) ⭐ 252 | 🐛 10 | 🌐 JavaScript | 📅 2024-11-24 By cannibalox
-* [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) ⭐ 212 | 🐛 5 | 🌐 TypeScript | 📅 2025-02-19 by stdword — Logseq Templates you will really love ❤️
+* [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) ⭐ 211 | 🐛 5 | 🌐 TypeScript | 📅 2025-02-19 by stdword — Logseq Templates you will really love ❤️
 * [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) ⭐ 188 | 🐛 15 | 🌐 TypeScript | 📅 2023-05-27 by pengx17 - Add bullet threading to your active blocks in Logseq
 * [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) ⭐ 174 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-29 By pengx17 - Activity heatmap based on Journal Pages
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 146 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 119 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 98 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,410 | 🐛 79 | 🌐 Go | 📅 2026-09-28 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 98 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,431 | 🐛 87 | 🌐 Go | 📅 2026-09-28 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

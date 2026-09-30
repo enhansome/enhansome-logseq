@@ -43,7 +43,7 @@
             "open_issues": 9,
             "owner": "Sansui233",
             "repo": "logseq-bonofix-theme",
-            "stars": 255,
+            "stars": 256,
             "topics": [
               "css",
               "logseq",
@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-09-24T18:14:33Z",
+            "last_commit": "2026-09-30T01:14:17Z",
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -734,7 +734,7 @@
             "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "knowledge-management",
               "logseq",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:46:53.356Z",
+    "last_updated": "2026-09-30T02:26:42.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
