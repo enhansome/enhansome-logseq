@@ -146,7 +146,7 @@
             "open_issues": 6,
             "owner": "cannibalox",
             "repo": "logseq-dark-hpx",
-            "stars": 96,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1341,7 +1341,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-31T19:44:02Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "akosbalasko",
             "repo": "yarle",
             "stars": 1805,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:26:42.828Z",
+    "last_updated": "2026-10-01T02:28:54.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2917,
+      "stars": 2916,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
