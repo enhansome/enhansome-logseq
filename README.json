@@ -858,7 +858,7 @@
             "open_issues": 3,
             "owner": "c6p",
             "repo": "logseq-habit-tracker",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1344,7 +1344,7 @@
             "open_issues": 92,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1805,
+            "stars": 1806,
             "topics": [
               "converter",
               "desktop-application",
@@ -1430,7 +1430,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-28T20:14:30Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
             "stars": 148,
@@ -1528,7 +1528,7 @@
             "open_issues": 3,
             "owner": "kanru",
             "repo": "logseq-encrypt-ui",
-            "stars": 76,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1639,7 +1639,7 @@
                 "open_issues": 33,
                 "owner": "sawhney17",
                 "repo": "logseq-citation-manager",
-                "stars": 79,
+                "stars": 80,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:28:54.062Z",
+    "last_updated": "2026-10-02T02:35:51.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2916,
+      "stars": 2918,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
