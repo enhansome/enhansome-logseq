@@ -62,7 +62,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 143 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 120 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,531 | 🐛 97 | 🌐 Go | 📅 2026-10-02 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,542 | 🐛 100 | 🌐 Go | 📅 2026-10-05 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -112,7 +112,7 @@ These are integrations that are officially supported by the third party:
 * [logseq-copilot](https://github.com/EINDEX/logseq-copilot) ⭐ 317 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11 - Chrome extension that display logseq
   results next to google ones
 * [Lupin](https://github.com/akhater/Lupin) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2021-04-13 By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
-* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 147 | 🐛 1 | 🌐 Shell | 📅 2026-09-28 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
+* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 147 | 🐛 1 | 🌐 Shell | 📅 2026-10-05 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
 * [logseq-guide](https://github.com/dustinlacewell/logseq-guide) ⭐ 145 | 🐛 4 | 📅 2021-05-20 - Self hosting Logseq
 * [fireSeqSearch](https://github.com/Endle/fireSeqSearch) ⭐ 108 | 🐛 9 | 🌐 Rust | 📅 2026-08-22 - Extension that displays logseq results
   alongside google ones
@@ -139,7 +139,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 ### Conversion CLI
 
-* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 108 | 🐛 8 | 🌐 Go | 📅 2026-10-03 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
+* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 108 | 🐛 8 | 🌐 Go | 📅 2026-10-05 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 * [longdown](https://github.com/dundalek/longdown) ⭐ 50 | 🐛 0 | 🌐 Clojure | 📅 2026-04-06 - CLI tool for converting longform markdown to logseq markdown
 * [keep2log](https://github.com/lugenx/keep2log) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2023-09-10 By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 * [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2022-07-24 By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
