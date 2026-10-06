@@ -62,7 +62,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 143 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 131 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 120 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,542 | 🐛 100 | 🌐 Go | 📅 2026-10-05 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 97 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 63,555 | 🐛 102 | 🌐 Go | 📅 2026-10-05 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
