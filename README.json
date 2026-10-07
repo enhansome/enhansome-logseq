@@ -709,7 +709,7 @@
             "open_issues": 10,
             "owner": "cannibalox",
             "repo": "logtools",
-            "stars": 250,
+            "stars": 249,
             "topics": [
               "note-taking",
               "plugins",
@@ -1344,7 +1344,7 @@
             "open_issues": 92,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1806,
+            "stars": 1807,
             "topics": [
               "converter",
               "desktop-application",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:17.153Z",
+    "last_updated": "2026-10-07T02:42:57.378Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
