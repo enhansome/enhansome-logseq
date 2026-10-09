@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 404,
+            "stars": 405,
             "topics": [
               "logseq",
               "logseqtheme"
@@ -1639,7 +1639,7 @@
                 "open_issues": 33,
                 "owner": "sawhney17",
                 "repo": "logseq-citation-manager",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T03:00:09.064Z",
+    "last_updated": "2026-10-09T03:06:55.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2919,
+      "stars": 2920,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
