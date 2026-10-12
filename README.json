@@ -1429,7 +1429,7 @@
             "id": 1204634199,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-05T09:02:05Z",
+            "last_commit": "2026-10-11T16:24:34Z",
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
@@ -1657,7 +1657,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-21T16:52:39Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "e-zz",
                 "repo": "logseq-pdf-extract",
                 "stars": 40,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T02:14:11.890Z",
+    "last_updated": "2026-10-12T02:40:23.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2921,
+      "stars": 2920,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
