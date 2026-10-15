@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "logseq",
               "logseqtheme"
@@ -68,7 +68,7 @@
             "open_issues": 2,
             "owner": "dracula",
             "repo": "logseq",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "dark-theme",
               "dracula",
@@ -121,7 +121,7 @@
             "open_issues": 11,
             "owner": "rcvd",
             "repo": "logseq-bear-theme",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "logseq",
               "logseq-themes",
@@ -146,7 +146,7 @@
             "open_issues": 6,
             "owner": "cannibalox",
             "repo": "logseq-dark-hpx",
-            "stars": 95,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -237,7 +237,7 @@
             "open_issues": 1,
             "owner": "Bad3r",
             "repo": "Logseq-Nord-Theme",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -258,7 +258,7 @@
             "open_issues": 6,
             "owner": "pengx17",
             "repo": "logseq-laurel-theme",
-            "stars": 57,
+            "stars": 58,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -321,7 +321,7 @@
             "open_issues": 9,
             "owner": "UNICKCHENG",
             "repo": "logseq-developer-theme",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "logseq",
               "logseq-themes",
@@ -346,7 +346,7 @@
             "open_issues": 2,
             "owner": "mendax1234",
             "repo": "logseq-cusgit-theme",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "customized",
               "github",
@@ -373,7 +373,7 @@
             "open_issues": 1,
             "owner": "l3ony2k",
             "repo": "D42ker-Logseq",
-            "stars": 34,
+            "stars": 35,
             "topics": [
               "logseq",
               "logseq-themes",
@@ -398,7 +398,7 @@
             "open_issues": 3,
             "owner": "mschmidtkorth",
             "repo": "logseq-msk-enhanced",
-            "stars": 32,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -593,7 +593,7 @@
             "open_issues": 0,
             "owner": "DenaroCF",
             "repo": "LS-Base16-Atelier-Forest-by-Denaro",
-            "stars": 9,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1344,7 +1344,7 @@
             "open_issues": 92,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1811,
+            "stars": 1812,
             "topics": [
               "converter",
               "desktop-application",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T10:54:44Z",
+                "last_commit": "2026-10-14T17:01:57Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:11:06.087Z",
+    "last_updated": "2026-10-15T01:52:57.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
