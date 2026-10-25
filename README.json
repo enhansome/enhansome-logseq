@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-21T17:08:33Z",
+                "last_commit": "2026-10-24T17:57:36Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T02:00:30.133Z",
+    "last_updated": "2026-10-25T01:42:56.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
