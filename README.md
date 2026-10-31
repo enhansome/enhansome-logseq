@@ -22,10 +22,10 @@ Awesome Logseq extensions and resources created by the community <3
 * [logseq-dev-theme](https://github.com/pengx17/logseq-dev-theme) ⭐ 405 | 🐛 40 | 🌐 CSS | 📅 2024-08-12 By pengx17
 * [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) ⭐ 256 | 🐛 9 | 🌐 SCSS | 📅 2025-06-09 By Sansui233
 * [logseq-dracula](https://github.com/SlyBouhafs/logseq-dracula) ⭐ 204 | 🐛 2 | 🌐 CSS | 📅 2026-09-02 By SlyBouhafs
-* [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-10-29 by griimick
+* [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-10-30 by griimick
 * [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) ⭐ 153 | 🐛 11 | 🌐 CSS | 📅 2022-05-03 by Alexander Rink
 * [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) ⭐ 96 | 🐛 6 | 🌐 CSS | 📅 2022-05-06 By Cannibalox
-* [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) ⭐ 94 | 🐛 5 | 🌐 CSS | 📅 2023-10-05 by tobealive
+* [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) ⭐ 93 | 🐛 5 | 🌐 CSS | 📅 2023-10-05 by tobealive
 * [Harmony-theme-for-Logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq) ⭐ 85 | 🐛 0 | 🌐 CSS | 📅 2026-05-06 By DubininDmitry
 * [logseq-bujo-theme](https://github.com/stdword/logseq-bujo-theme) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2025-12-27 by PiotrSss & stdword, inspired by Bullet Journals ☕️
 * [Logseq-Nord-Theme](https://github.com/Bad3r/Logseq-Nord-Theme) ⭐ 60 | 🐛 1 | 🌐 CSS | 📅 2024-03-26 by Bad3r
@@ -59,10 +59,10 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) ⭐ 209 | 🐛 5 | 🌐 TypeScript | 📅 2025-02-19 by stdword — Logseq Templates you will really love ❤️
 * [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) ⭐ 187 | 🐛 15 | 🌐 TypeScript | 📅 2023-05-27 by pengx17 - Add bullet threading to your active blocks in Logseq
 * [logseq-plugin-heatmap](https://github.com/pengx17/logseq-plugin-heatmap) ⭐ 174 | 🐛 23 | 🌐 TypeScript | 📅 2023-01-29 By pengx17 - Activity heatmap based on Journal Pages
-* [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 143 | 🐛 19 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
+* [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 143 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 130 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 119 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 64,176 | 🐛 59 | 🌐 Go | 📅 2026-10-29 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 64,190 | 🐛 59 | 🌐 Go | 📅 2026-10-31 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 13 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -87,7 +87,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins
 
 These are integrations that are officially supported by the third party:
 
-* [Omnivore](https://github.com/omnivore-app/logseq-omnivore) ⭐ 304 | 🐛 34 | 🌐 TypeScript | 📅 2026-04-06 - Provides Logseq plugin to fetch
+* [Omnivore](https://github.com/omnivore-app/logseq-omnivore) ⭐ 305 | 🐛 34 | 🌐 TypeScript | 📅 2026-04-06 - Provides Logseq plugin to fetch
   Omnivore articles and highlights
 * [Readwise](https://github.com/readwiseio/logseq-readwise-official-plugin#readme) ⭐ 66 | 🐛 33 | 🌐 TypeScript | 📅 2024-03-25 - Provides Logseq plugin to export Readwise highlights to Logseq
 * [Matter](https://github.com/getmatterapp/logseq-matter#readme) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-06 - Provides Logseq plugin to sync Matter highlights with Logseq
@@ -108,12 +108,12 @@ These are integrations that are officially supported by the third party:
 
 ## 💡 Workflows and Innovations
 
-* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,815 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
-* [logseq-copilot](https://github.com/EINDEX/logseq-copilot) ⭐ 317 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-23 - Chrome extension that display logseq
+* [Yarle](https://github.com/akosbalasko/yarle) ⭐ 1,816 | 🐛 94 | 🌐 TypeScript | 📅 2026-03-31 By akosbalasko - Yarle(Yet Another Rope Ladder from Evernote) is a cross-platform desktop tool that converts Evernote notebooks into Markdown format supporting Logseq dialect comprehensively
+* [logseq-copilot](https://github.com/EINDEX/logseq-copilot) ⭐ 316 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-23 - Chrome extension that display logseq
   results next to google ones
 * [Lupin](https://github.com/akhater/Lupin) ⭐ 168 | 🐛 2 | 🌐 Python | 📅 2021-04-13 By akhater - Supercharge LogSeq with this Telegram chatbot - Flashcards | Brainmaps | Hypothesis Annotations | Quick entries | TODO | Bookmarks | Images upload and more
-* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 150 | 🐛 1 | 🌐 Shell | 📅 2026-10-11 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
-* [logseq-guide](https://github.com/dustinlacewell/logseq-guide) ⭐ 145 | 🐛 4 | 📅 2021-05-20 - Self hosting Logseq
+* [llm-wiki](https://github.com/MehmetGoekce/llm-wiki) ⭐ 153 | 🐛 1 | 🌐 Shell | 📅 2026-10-11 by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) with five operations (`/wiki ingest`, `query`, `lint`, `status`, `migrate`), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).
+* [logseq-guide](https://github.com/dustinlacewell/logseq-guide) ⭐ 146 | 🐛 4 | 📅 2021-05-20 - Self hosting Logseq
 * [fireSeqSearch](https://github.com/Endle/fireSeqSearch) ⭐ 108 | 🐛 9 | 🌐 Rust | 📅 2026-08-22 - Extension that displays logseq results
   alongside google ones
 * [org-logseq](https://github.com/llcc/org-logseq) ⭐ 106 | 🐛 4 | 🌐 Emacs Lisp | 📅 2023-09-20 By llcc - Another elisp package to work with logseq when using emacs
@@ -139,7 +139,7 @@ Bibliography managers (eg Zotero) are widely used in scientific research, and sc
 
 ### Conversion CLI
 
-* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 109 | 🐛 8 | 🌐 Go | 📅 2026-10-29 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
+* [logseq-doctor](https://github.com/andreoliwa/logseq-doctor) ⭐ 109 | 🐛 8 | 🌐 Go | 📅 2026-10-30 By andreoliwa - Heal your Markdown files. CLI tool to convert to outline, list tasks, and more tools to come
 * [longdown](https://github.com/dundalek/longdown) ⭐ 50 | 🐛 0 | 🌐 Clojure | 📅 2026-04-06 - CLI tool for converting longform markdown to logseq markdown
 * [keep2log](https://github.com/lugenx/keep2log) ⭐ 38 | 🐛 3 | 🌐 JavaScript | 📅 2023-09-10 By lugenx - CLI tool that converts Google Keep Takeout files to Logseq journal entries, allowing you to migrate your notes from Google Keep to the Logseq note-taking app.
 * [dayone2logseq-md](https://github.com/mhejda/dayone2logseq-md) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2022-07-24 By mhejda - Python script for batch conversion of DayOne JSON-exported journals into Logseq-friendly Markdown files
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

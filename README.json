@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-29T03:53:12Z",
+            "last_commit": "2026-10-30T23:03:57Z",
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -167,7 +167,7 @@
             "open_issues": 5,
             "owner": "ttytm",
             "repo": "logseq-allday-theme",
-            "stars": 94,
+            "stars": 93,
             "topics": [
               "logseq",
               "logseq-themes",
@@ -805,7 +805,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-01-29T11:49:25Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "haydenull",
             "repo": "logseq-plugin-markdown-table",
             "stars": 143,
@@ -1251,7 +1251,7 @@
             "open_issues": 34,
             "owner": "omnivore-app",
             "repo": "logseq-omnivore",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "logseq",
               "logseq-plugin"
@@ -1344,7 +1344,7 @@
             "open_issues": 94,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "converter",
               "desktop-application",
@@ -1386,7 +1386,7 @@
             "open_issues": 21,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
-            "stars": 317,
+            "stars": 316,
             "topics": [
               "browser-extension",
               "logseq",
@@ -1433,7 +1433,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 150,
+            "stars": 153,
             "topics": [
               "ai",
               "claude-code",
@@ -1465,7 +1465,7 @@
             "open_issues": 4,
             "owner": "dustinlacewell",
             "repo": "logseq-guide",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-29T23:31:24Z",
+                "last_commit": "2026-10-30T18:11:23Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T03:00:09.566Z",
+    "last_updated": "2026-10-31T02:45:41.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
