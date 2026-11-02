@@ -1344,7 +1344,7 @@
             "open_issues": 94,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "converter",
               "desktop-application",
@@ -1433,7 +1433,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 153,
+            "stars": 154,
             "topics": [
               "ai",
               "claude-code",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:38:58.801Z",
+    "last_updated": "2026-11-02T02:46:25.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
