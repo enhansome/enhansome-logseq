@@ -1433,7 +1433,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 160,
+            "stars": 162,
             "topics": [
               "ai",
               "claude-code",
@@ -1917,7 +1917,7 @@
                 "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "logseq",
                   "notes",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T03:20:35.929Z",
+    "last_updated": "2026-11-05T03:45:51.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
