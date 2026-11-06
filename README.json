@@ -90,7 +90,7 @@
             "id": 562506464,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-04T00:29:11Z",
+            "last_commit": "2026-11-06T01:59:29Z",
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-23T07:16:19Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-06T02:07:15Z",
+            "open_issues": 19,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 315,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:45:51.938Z",
+    "last_updated": "2026-11-06T03:41:28.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2933,
+      "stars": 2934,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
