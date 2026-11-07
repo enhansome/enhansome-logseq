@@ -25,7 +25,7 @@ Awesome Logseq extensions and resources created by the community <3
 * [Catppuccin](https://github.com/catppuccin/logseq) ⭐ 195 | 🐛 19 | 🌐 SCSS | 📅 2026-11-06 by griimick
 * [Logseq Bear Theme](https://github.com/rcvd/logseq-bear-theme) ⭐ 153 | 🐛 11 | 🌐 CSS | 📅 2022-05-03 by Alexander Rink
 * [logseq-dark-hpx](https://github.com/cannibalox/logseq-dark-hpx) ⭐ 96 | 🐛 6 | 🌐 CSS | 📅 2022-05-06 By Cannibalox
-* [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) ⭐ 93 | 🐛 5 | 🌐 CSS | 📅 2023-10-05 by tobealive
+* [Logseq All Day theme](https://github.com/tobealive/logseq-allday-theme) ⭐ 94 | 🐛 5 | 🌐 CSS | 📅 2023-10-05 by tobealive
 * [Harmony-theme-for-Logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq) ⭐ 85 | 🐛 0 | 🌐 CSS | 📅 2026-05-06 By DubininDmitry
 * [logseq-bujo-theme](https://github.com/stdword/logseq-bujo-theme) ⭐ 69 | 🐛 0 | 🌐 CSS | 📅 2025-12-27 by PiotrSss & stdword, inspired by Bullet Journals ☕️
 * [Logseq-Nord-Theme](https://github.com/Bad3r/Logseq-Nord-Theme) ⭐ 60 | 🐛 1 | 🌐 CSS | 📅 2024-03-26 by Bad3r
@@ -62,7 +62,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 * [logseq-plugin-markdown-table](https://github.com/haydenull/logseq-plugin-markdown-table) ⭐ 143 | 🐛 20 | 🌐 JavaScript | 📅 2026-01-29 by haydenull - Logseq markdown table editor
 * [logseq-plugin-link-prerview](https://github.com/pengx17/logseq-plugin-link-preview) ⭐ 130 | 🐛 26 | 🌐 TypeScript | 📅 2024-03-25 by pengx17 - add external link preview using OpenGraph metadata
 * [logseq-habit-tracker](https://github.com/c6p/logseq-habit-tracker) ⭐ 119 | 🐛 3 | 🌐 Vue | 📅 2025-10-10 By c6p - Track habits from daily journal pages
-* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 64,307 | 🐛 51 | 🌐 Go | 📅 2026-11-06 to logseq
+* [logseq-memos-sync](https://github.com/EINDEX/logseq-memos-sync) ⭐ 96 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-11 by EINDEX - Sync [Memos](https://github.com/usememos/memos) ⭐ 64,323 | 🐛 50 | 🌐 Go | 📅 2026-11-06 to logseq
 * [logseq-hypothesis](https://github.com/c6p/logseq-hypothesis) ⭐ 92 | 🐛 5 | 🌐 Vue | 📅 2025-02-10 By c6p - Get hypothes.is annotations into logseq
 * [logseq-plugin-comment-block](https://github.com/vipzhicheng/logseq-plugin-comment-block) ⭐ 77 | 🐛 14 | 🌐 TypeScript | 📅 2025-04-04 By vipzhicheng - An automatic block comment history workflow
 * [logseq-jira](https://github.com/adyscorpius/logseq-jira) ⭐ 59 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-20 by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
@@ -87,9 +87,9 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins
 
 These are integrations that are officially supported by the third party:
 
-* [Omnivore](https://github.com/omnivore-app/logseq-omnivore) ⭐ 305 | 🐛 34 | 🌐 TypeScript | 📅 2026-04-06 - Provides Logseq plugin to fetch
+* [Omnivore](https://github.com/omnivore-app/logseq-omnivore) ⭐ 305 | 🐛 33 | 🌐 TypeScript | 📅 2026-04-06 - Provides Logseq plugin to fetch
   Omnivore articles and highlights
-* [Readwise](https://github.com/readwiseio/logseq-readwise-official-plugin#readme) ⭐ 66 | 🐛 33 | 🌐 TypeScript | 📅 2024-03-25 - Provides Logseq plugin to export Readwise highlights to Logseq
+* [Readwise](https://github.com/readwiseio/logseq-readwise-official-plugin#readme) ⭐ 66 | 🐛 32 | 🌐 TypeScript | 📅 2024-03-25 - Provides Logseq plugin to export Readwise highlights to Logseq
 * [Matter](https://github.com/getmatterapp/logseq-matter#readme) ⭐ 22 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-06 - Provides Logseq plugin to sync Matter highlights with Logseq
 * [五彩](https://github.com/makediff/logseq-wucai-official-plugin) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-12 - Provides Logseq plugin to export WuCai highlights to Logseq
 * [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graphs
@@ -175,4 +175,4 @@ See <https://github.com/pengx17/logseq-publish/network/dependents> ⚠️ Archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

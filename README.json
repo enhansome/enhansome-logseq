@@ -167,7 +167,7 @@
             "open_issues": 5,
             "owner": "ttytm",
             "repo": "logseq-allday-theme",
-            "stars": 93,
+            "stars": 94,
             "topics": [
               "logseq",
               "logseq-themes",
@@ -1248,7 +1248,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-04-06T22:15:33Z",
-            "open_issues": 34,
+            "open_issues": 33,
             "owner": "omnivore-app",
             "repo": "logseq-omnivore",
             "stars": 305,
@@ -1272,7 +1272,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2024-03-25T13:25:51Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "readwiseio",
             "repo": "logseq-readwise-official-plugin",
             "stars": 66,
@@ -1382,7 +1382,7 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T02:07:15Z",
+            "last_commit": "2026-11-06T10:41:43Z",
             "open_issues": 19,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:41:28.078Z",
+    "last_updated": "2026-11-07T03:14:48.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
