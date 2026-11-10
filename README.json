@@ -1344,7 +1344,7 @@
             "open_issues": 94,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1816,
+            "stars": 1817,
             "topics": [
               "converter",
               "desktop-application",
@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T02:31:03Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-10T03:30:21Z",
+            "open_issues": 20,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 315,
@@ -1433,7 +1433,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "ai",
               "claude-code",
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-02T18:07:26Z",
+                "last_commit": "2026-11-10T00:50:19Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -1917,7 +1917,7 @@
                 "open_issues": 4,
                 "owner": "jrswab",
                 "repo": "lsq",
-                "stars": 211,
+                "stars": 212,
                 "topics": [
                   "logseq",
                   "notes",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T03:01:22.042Z",
+    "last_updated": "2026-11-10T04:48:46.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2935,
+      "stars": 2936,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
