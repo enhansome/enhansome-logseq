@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T04:12:29Z",
-            "open_issues": 21,
+            "last_commit": "2026-11-13T03:26:24Z",
+            "open_issues": 19,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 315,
@@ -1392,6 +1392,38 @@
               "logseq",
               "notes",
               "searching"
+            ]
+          },
+          "first_seen": "2026-08-28T07:05:58.328Z"
+        },
+        {
+          "node_type": "item",
+          "title": "llm-wiki",
+          "description": "by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements Karpathy's LLM Wiki pattern with five operations (, , , , ), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
+            "homepage": null,
+            "id": 1204634199,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2026-11-07T16:37:58Z",
+            "open_issues": 1,
+            "owner": "MehmetGoekce",
+            "repo": "llm-wiki",
+            "stars": 169,
+            "topics": [
+              "ai",
+              "claude-code",
+              "developer-tools",
+              "karpathy",
+              "knowledge-management",
+              "llm",
+              "logseq",
+              "obsidian",
+              "productivity",
+              "wiki"
             ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1414,38 +1446,6 @@
             "repo": "Lupin",
             "stars": 168,
             "topics": []
-          },
-          "first_seen": "2026-08-28T07:05:58.328Z"
-        },
-        {
-          "node_type": "item",
-          "title": "llm-wiki",
-          "description": "by MehmetGoekce - Maintain your Logseq graph automatically with Claude Code. Implements Karpathy's LLM Wiki pattern with five operations (, , , , ), schema-driven consistency, and automated health checks (orphans, stale pages, broken refs, credential leaks). Two-layer cache architecture (auto-loaded rules + on-demand wiki).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build Karpathy's LLM Wiki with Claude Code. L1/L2 cache architecture. Logseq + Obsidian support.",
-            "homepage": null,
-            "id": 1204634199,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-11-07T16:37:58Z",
-            "open_issues": 1,
-            "owner": "MehmetGoekce",
-            "repo": "llm-wiki",
-            "stars": 168,
-            "topics": [
-              "ai",
-              "claude-code",
-              "developer-tools",
-              "karpathy",
-              "knowledge-management",
-              "llm",
-              "logseq",
-              "obsidian",
-              "productivity",
-              "wiki"
-            ]
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
         },
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:21:31.878Z",
+    "last_updated": "2026-11-13T03:38:28.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
