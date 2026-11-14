@@ -1382,11 +1382,11 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T03:26:24Z",
-            "open_issues": 19,
+            "last_commit": "2026-11-14T00:29:51Z",
+            "open_issues": 12,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
-            "stars": 315,
+            "stars": 314,
             "topics": [
               "browser-extension",
               "logseq",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:38:28.063Z",
+    "last_updated": "2026-11-14T03:37:14.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
