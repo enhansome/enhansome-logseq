@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T00:29:51Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-14T10:22:04Z",
+            "open_issues": 10,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 314,
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-11T09:42:05Z",
+                "last_commit": "2026-11-14T10:55:06Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:37:14.150Z",
+    "last_updated": "2026-11-15T03:07:59.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2939,
+      "stars": 2940,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
