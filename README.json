@@ -43,7 +43,7 @@
             "open_issues": 9,
             "owner": "Sansui233",
             "repo": "logseq-bonofix-theme",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "css",
               "logseq",
@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T00:39:03Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-18T03:46:00Z",
+            "open_issues": 15,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 314,
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:15:33.959Z",
+    "last_updated": "2026-11-18T04:43:56.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 4,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2940,
+      "stars": 2939,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
