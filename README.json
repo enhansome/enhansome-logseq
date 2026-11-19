@@ -1382,8 +1382,8 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T03:46:00Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-18T12:12:45Z",
+            "open_issues": 18,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
             "stars": 314,
@@ -1412,7 +1412,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "ai",
               "claude-code",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T04:43:56.176Z",
+    "last_updated": "2026-11-19T04:33:59.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2043,7 +2043,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-04-27T12:19:40Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "logseq",
       "repo": "awesome-logseq",
       "stars": 2939,
