@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "pengx17",
             "repo": "logseq-dev-theme",
-            "stars": 405,
+            "stars": 404,
             "topics": [
               "logseq",
               "logseqtheme"
@@ -94,7 +94,7 @@
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
-            "stars": 195,
+            "stars": 194,
             "topics": [
               "catppuccin",
               "hacktoberfest",
@@ -734,7 +734,7 @@
             "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "knowledge-management",
               "logseq",
@@ -760,7 +760,7 @@
             "open_issues": 15,
             "owner": "pengx17",
             "repo": "logseq-plugin-bullet-threading",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "logseq",
               "logseq-plugin"
@@ -1012,7 +1012,7 @@
             "open_issues": 1,
             "owner": "DenaroCF",
             "repo": "Highlighters-for-Logseq",
-            "stars": 45,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1341,10 +1341,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-03-31T19:44:02Z",
-            "open_issues": 94,
+            "open_issues": 93,
             "owner": "akosbalasko",
             "repo": "yarle",
-            "stars": 1816,
+            "stars": 1815,
             "topics": [
               "converter",
               "desktop-application",
@@ -1382,11 +1382,11 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-23T01:53:10Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-24T05:40:41Z",
+            "open_issues": 17,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "browser-extension",
               "logseq",
@@ -1408,7 +1408,7 @@
             "id": 1204634199,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-07T16:37:58Z",
+            "last_commit": "2026-11-23T09:23:10Z",
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
@@ -1528,7 +1528,7 @@
             "open_issues": 3,
             "owner": "kanru",
             "repo": "logseq-encrypt-ui",
-            "stars": 78,
+            "stars": 77,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1618,7 +1618,7 @@
                 "open_issues": 36,
                 "owner": "sawhney17",
                 "repo": "logseq-pdf-export",
-                "stars": 128,
+                "stars": 127,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1735,7 +1735,7 @@
                 "id": 471953445,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-19T20:08:42Z",
+                "last_commit": "2026-11-23T22:09:31Z",
                 "open_issues": 8,
                 "owner": "andreoliwa",
                 "repo": "logseq-doctor",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T04:02:53.759Z",
+    "last_updated": "2026-11-24T07:07:12.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
