@@ -94,7 +94,7 @@
             "open_issues": 19,
             "owner": "catppuccin",
             "repo": "logseq",
-            "stars": 194,
+            "stars": 195,
             "topics": [
               "catppuccin",
               "hacktoberfest",
@@ -734,7 +734,7 @@
             "open_issues": 5,
             "owner": "stdword",
             "repo": "logseq13-full-house-plugin",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "knowledge-management",
               "logseq",
@@ -834,7 +834,7 @@
             "open_issues": 26,
             "owner": "pengx17",
             "repo": "logseq-plugin-link-preview",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "logseq",
               "plugin"
@@ -1251,7 +1251,7 @@
             "open_issues": 33,
             "owner": "omnivore-app",
             "repo": "logseq-omnivore",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "logseq",
               "logseq-plugin"
@@ -1382,11 +1382,11 @@
             "id": 600764100,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T02:33:08Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-27T01:21:13Z",
+            "open_issues": 15,
             "owner": "EINDEX",
             "repo": "logseq-copilot",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "browser-extension",
               "logseq",
@@ -1412,7 +1412,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "ai",
               "claude-code",
@@ -1528,7 +1528,7 @@
             "open_issues": 3,
             "owner": "kanru",
             "repo": "logseq-encrypt-ui",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:58.328Z"
@@ -1681,7 +1681,7 @@
                 "open_issues": 2,
                 "owner": "OverflowCat",
                 "repo": "logseq-pdf-nav",
-                "stars": 27,
+                "stars": 26,
                 "topics": [
                   "logseq",
                   "logseq-plugin"
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:29:39.035Z",
+    "last_updated": "2026-11-27T05:24:36.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
@@ -2046,7 +2046,7 @@
       "open_issues": 6,
       "owner": "logseq",
       "repo": "awesome-logseq",
-      "stars": 2940,
+      "stars": 2941,
       "topics": []
     },
     "original_repository_sha": "6bf327a8e6ec72f0373ec4daf35f7f458fde278f",
