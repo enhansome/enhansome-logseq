@@ -1412,7 +1412,7 @@
             "open_issues": 1,
             "owner": "MehmetGoekce",
             "repo": "llm-wiki",
-            "stars": 172,
+            "stars": 173,
             "topics": [
               "ai",
               "claude-code",
@@ -2034,7 +2034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:24:36.006Z",
+    "last_updated": "2026-11-28T04:59:42.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Logseq resources created by the community <3",
